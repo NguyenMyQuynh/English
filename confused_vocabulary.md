@@ -22,4 +22,7 @@
 - display: trưng bày
 - delay: trì hoãn (=postpone)
 
+## Lesson 7-8:
+- occur: xảy ra
+- recur: tái diễn
 
