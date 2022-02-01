@@ -10,3 +10,16 @@
 - determine: quyết định
 - demonstrate: chứng minh, giải thích
 - convice = persuade: thuyết phục
+- evaluate = appreciate: đánh giá 
+
+## Lesson 5-6:
+- section: phần
+- session: phiên (phiên họp, buổi họp)
+- attend = join = take part in = participate : tham gia 
+- allocate = designate = distribute : phân phối 
+- compatible: tương thích ~ accommodating 
+- hold (tổ chức) ~ conduct (tiến hành)
+- display: trưng bày
+- delay: trì hoãn (=postpone)
+
+
