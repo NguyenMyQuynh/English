@@ -27,4 +27,6 @@
 - recur: tái diễn
 - appreciate = evaluate : đánh giâ
 - bring in = hire = engage = recruit: thuê
+- reinforce: tăng cường, củng cố
+- encourage: khuyến khích, khích lệ
 
