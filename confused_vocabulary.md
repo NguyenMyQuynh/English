@@ -25,4 +25,6 @@
 ## Lesson 7-8:
 - occur: xảy ra
 - recur: tái diễn
+- appreciate = evaluate : đánh giâ
+- bring in = hire = engage = recruit: thuê
 
