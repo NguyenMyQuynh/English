@@ -2,6 +2,8 @@
 
 <br>
 
+## 1-20 quiz MẸO:
+
 - balance + of
 - Amost all of: hầu như tất cả 
 - (ought to = should) + Vo
