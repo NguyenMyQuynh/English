@@ -6,7 +6,7 @@
 - inspire: truyền cảm hứng
 - expire: hết hạn
 - offer: đề xuất, đề nghị
-- require: yêu cầu
+- require: yêu cầu = ask 
 - determine: quyết định
 - demonstrate: chứng minh, giải thích
 - convice = persuade: thuyết phục
