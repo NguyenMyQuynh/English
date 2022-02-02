@@ -30,6 +30,4 @@
 - reinforce: tăng cường, củng cố
 - encourage: khuyến khích, khích lệ
 
-## quiz6 MẸO:
-- arraign : buộc tội, tố cáo
-- arrange: sắp xếp
+
