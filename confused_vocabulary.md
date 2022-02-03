@@ -11,6 +11,8 @@
 - demonstrate: chứng minh, giải thích
 - convice = persuade: thuyết phục
 - evaluate = appreciate: đánh giá 
+- specify: định rõ 
+- satisfy: làm hài lòng 
 
 ## Lesson 5-6:
 - section: phần
