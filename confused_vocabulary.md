@@ -24,6 +24,7 @@
 - delay: trì hoãn (=postpone)
 - display: (n,v) trưng bày
 - duplicate: (n,v) bản sao, sao chép
+- access: (n,v)
 
 ## Lesson 7-8:
 - occur: xảy ra
