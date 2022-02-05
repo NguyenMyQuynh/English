@@ -30,3 +30,13 @@
 - inspect: quan sát, kiểm tra, giám sát 
 - invest: đầu tư 
 - investigation: cuộc điều tra  
+
+## Conditional sentences
+- at/on the weekend
+- Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?
+- Would you mind if S + Vpast simple …? hoặc Do you mind if S + Vpresent simple …?: Bạn có phiền không nếu tôi làm gì?\
+- pick me up: đón tui
+- go mad: điên lên
+- wear-wore-worn
+- drive-drove-driven
+- shake-shook-shaken: rung lắc
