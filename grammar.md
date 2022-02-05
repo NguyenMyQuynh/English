@@ -37,6 +37,52 @@
 - Would you mind if S + Vpast simple …? hoặc Do you mind if S + Vpresent simple …?: Bạn có phiền không nếu tôi làm gì?\
 - pick me up: đón tui
 - go mad: điên lên
+
+<br>
+
 - wear-wore-worn
 - drive-drove-driven
 - shake-shook-shaken: rung lắc
+- understand-understood-understood
+- go-went-gone
+- do-did-done
+- swim-swam-swum
+- write-wrote-written
+- teach-taught-taught
+- bring-brought-brought
+- buy-bought-bought
+- catch-caught-caught
+- sleep-slept-slept
+- fall-fell-fallen: ngã, rơi
+- feel-felt-felt: cảm thấy
+- find-found-found
+- win-won-won
+- tell-told-told
+- take-took-taken
+- speak-spoke-spoken
+- sit-sat-sat
+- sing-sang-sung
+- shut-shut-shut
+- set-set-set
+- sell-sold-sold: bán
+- see-saw-seen
+- say-said-said
+- run-ran-run
+- ride-rode-ridden
+- put-put-put
+- pay-paid-paid
+- let-let-let
+- lie-lay-lain: nằm
+- leave-left-left: ra đi, để lại
+- know-knew-known
+- lead-led-led: lãnh đạo
+- keep-kept-kept
+- hide-hid-hidden
+- hear-heard-heard
+- have-had-had
+- grow-grew-grown
+- give-gave-given
+- get got got/gotten
+- forget forgot forgotten: quên
+- forgive forgave forgiven" tha thứ
+- fly flew flown: bay
