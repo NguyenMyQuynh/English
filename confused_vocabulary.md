@@ -21,8 +21,9 @@
 - allocate = designate = distribute : phân phối 
 - compatible: tương thích ~ accommodating 
 - hold (tổ chức) ~ conduct (tiến hành)
-- display: trưng bày
 - delay: trì hoãn (=postpone)
+- display: (n,v) trưng bày
+- duplicate: (n,v) bản sao, sao chép
 
 ## Lesson 7-8:
 - occur: xảy ra
