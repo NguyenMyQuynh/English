@@ -14,7 +14,7 @@
 - specify: định rõ 
 - satisfy: làm hài lòng 
 
-## Lesson 5-6:
+## Lesson 5-8:
 - section: phần
 - session: phiên (phiên họp, buổi họp)
 - attend = join = take part in = participate : tham gia 
@@ -25,8 +25,7 @@
 - display: (n,v) trưng bày
 - duplicate: (n,v) bản sao, sao chép
 - access: (n,v)
-
-## Lesson 7-8:
+- warning (n, adj)
 - occur: xảy ra
 - recur: tái diễn
 - appreciate = evaluate : đánh giâ
