@@ -29,4 +29,4 @@
 - probably: có lẽ, chắc là 
 - inspect: quan sát, kiểm tra, giám sát 
 - invest: đầu tư 
-- investigation: điều tra  
+- investigation: cuộc điều tra  
