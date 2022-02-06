@@ -35,23 +35,27 @@
 - at/on the weekend
 - Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?
 
-     - Để đồng ý lời yêu cầu:
-        - No, I don’t mind.  (Không, tôi không thấy phiền./Tôi không bận tâm đâu.)
-        - No, of course not.  (Đương nhiên là không rồi.)
-        - Not at all.  (Không hề.)
-        - Please do. (bạn cứ làm đi)
-        - No. Not at all. (không sao cả)
-        - Never mind/ you’re welcome. (không sao)
-        - No. Of course not. (ồ dĩ nhiên là không phiền gì cả)
-        - No. That would be fine. (Ồ không bạn cứ làm đi)
-        - No. I’d be happy to do. (không. Tôi rất vui khi được làm được điều đó)
-        - No. I’d be glad to. (không. Tôi rất vui khi được làm được điều đó)
+     Để đồng ý lời yêu cầu:
+     
+          No, I don’t mind.  (Không, tôi không thấy phiền./Tôi không bận tâm đâu.)
+          No, of course not.  (Đương nhiên là không rồi.)
+          Not at all.  (Không hề.)
+          Please do. (bạn cứ làm đi)
+          No. Not at all. (không sao cả)
+          Never mind/ you’re welcome. (không sao)
+          No. Of course not. (ồ dĩ nhiên là không phiền gì cả)
+          No. That would be fine. (Ồ không bạn cứ làm đi)
+          No. I’d be happy to do. (không. Tôi rất vui khi được làm được điều đó)
+          No. I’d be glad to. (không. Tôi rất vui khi được làm được điều đó)
+          
+     Để từ chối lời yêu cầu:
+     
+          I’m sorry, I can’t.  (Tôi xin lỗi, tôi không thể.)
+          I’m sorry. That’s not possible.  (Tôi xin lỗi. Điều đó là không thể.)
+          I’d rather/ prefer you didn’t. (bạn không làm thì tốt hơn)
 
-    - Để từ chối lời yêu cầu:
-        - I’m sorry, I can’t.  (Tôi xin lỗi, tôi không thể.)
-        - I’m sorry. That’s not possible.  (Tôi xin lỗi. Điều đó là không thể.)
-        - I’d rather/ prefer you didn’t. (bạn không làm thì tốt hơn)
 - Would you mind if S + Vpast simple …? hoặc Do you mind if S + Vpresent simple …?: Bạn có phiền không nếu tôi làm gì?
+
     Nếu không thấy phiền ta có thể nói
 
       Please do  (Bạn cứ làm đi.)
@@ -70,10 +74,13 @@
       I’d rather you didn’t.  (“Tôi nghĩ bạn không nên làm thế.”)
       I’m sorry. That’s not possible.  (Xin lỗi, không thể được.)
       I’d rather/ prefer you didn’t. (bạn không làm thì tốt hơn)
+      
 - pick me up: đón tui
 - go mad: điên lên
 
 <br>
+
+## Irregular Verbs
 
 - wear-wore-worn
 - drive-drove-driven
