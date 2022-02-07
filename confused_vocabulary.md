@@ -42,4 +42,6 @@
 - stack: xếp chồng, chất đống
 - revise: ôn lại, duyệt lại, xem lại
 - review: kiểm tra lại
+- competition: cuộc thi, sự cạnh tranh
+- petition: đơn kiến nghị
 
