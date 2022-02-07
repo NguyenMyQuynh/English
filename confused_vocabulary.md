@@ -36,5 +36,10 @@
 ## Lesson 9-12: 
 - facilitate: tạo ĐK, làm cho dễ dầng 
 - furniture: nội thất 
-
+- substitue = replace 
+- storage: nơi lưu trữ, kho
+- stock: (n) kho dự trữ, nguồn hàng, nguồn cung cấp; (v) tích trữ
+- stack: xếp chồng, chất đống
+- revise: ôn lại
+- review: kiểm tra lại
 
