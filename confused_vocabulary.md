@@ -33,7 +33,7 @@
 - reinforce: tăng cường, củng cố
 - encourage: khuyến khích, khích lệ
 
-## Lesson 5-8: 
+## Lesson 9-12: 
 - facilitate: tạo ĐK, làm cho dễ dầng 
 - furniture: nội thất 
 
