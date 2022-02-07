@@ -40,6 +40,6 @@
 - storage: nơi lưu trữ, kho
 - stock: (n) kho dự trữ, nguồn hàng, nguồn cung cấp; (v) tích trữ
 - stack: xếp chồng, chất đống
-- revise: ôn lại
+- revise: ôn lại, duyệt lại, xem lại
 - review: kiểm tra lại
 
