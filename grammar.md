@@ -14,6 +14,7 @@
 
 - regulary = frequently: thường xuyên 
 - alert = inform = announce :thông báo 
+- imply:ẩn ý ~ allude:ám chỉ 
 
 <br>
 
