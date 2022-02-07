@@ -17,6 +17,8 @@
 
 <br>
 
+- occasion: cơ hội
+- associate: kết hợp
 - arraign : buộc tội, tố cáo
 - arrange: sắp xếp
 - again: lần nữa 
