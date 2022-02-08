@@ -18,6 +18,7 @@
 
 <br>
 
+- defer = delay = postpone = put off 
 - occasion: cơ hội
 - associate: kết hợp
 - arraign : buộc tội, tố cáo
