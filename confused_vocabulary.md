@@ -7,7 +7,7 @@
 - expire: hết hạn
 - offer: đề xuất, đề nghị
 - request: yêu cầu = hỏi = request
-- quyết định: quyết định
+- determine: quyết định
 - demonstrate: chứng minh, giải thích
 - convice = persuade: thuyết phục
 - evaluate = appreciate: đánh giá 
