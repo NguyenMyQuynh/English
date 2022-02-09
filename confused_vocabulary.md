@@ -45,3 +45,11 @@
 - competition: cuộc thi, sự cạnh tranh
 - petition: đơn kiến nghị
 
+## Shuffle: (này t ghi mấy từ tui hay lộn, G coi hay không cũng được)
+- series: hoàng loạt, dãy liên tiếp 
+- resent: bực bội   
+- serious: nghiêm trọng, nghiêm túc 
+- nervous: lo lắng
+- resent: bực bội 
+- dissention: sự bất đồng  
+- decent: tử tế
