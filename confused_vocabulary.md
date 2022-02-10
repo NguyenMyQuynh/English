@@ -44,7 +44,7 @@
 - review: kiểm tra lại
 - competition: cuộc thi, sự cạnh tranh
 - petition: đơn kiến nghị
-- assemble: tập hợp, thu thập = gather: thu thập, tập hợp
+- assemble: tập hợp, thu thập = gather: thu thập, tập hợp = bring together: nhóm lại, tập hợp, thu thập
 
 ## Shuffle: (này t ghi mấy từ tui hay lộn, G coi hay không cũng được)
 - series: hàng loạt, dãy liên tiếp 
