@@ -9,7 +9,7 @@
 - request: yêu cầu = hỏi = request
 - determine: quyết định
 - demonstrate: chứng minh, giải thích
-- convice = persuade: thuyết phục
+- convince = persuade: thuyết phục
 - evaluate = appreciate: đánh giá 
 - specify: định rõ 
 - satisfy: làm hài lòng 
@@ -36,7 +36,7 @@
 ## Lesson 9-12: 
 - facilitate: tạo ĐK, làm cho dễ dầng 
 - furniture: nội thất 
-- substitue = replace 
+- substitute = replace 
 - storage: nơi lưu trữ, kho
 - stock: (n) kho dự trữ, nguồn hàng, nguồn cung cấp; (v) tích trữ
 - stack: xếp chồng, chất đống
@@ -47,7 +47,7 @@
 - assemble: tập hợp, thu thập = gather: thu thập, tập hợp
 
 ## Shuffle: (này t ghi mấy từ tui hay lộn, G coi hay không cũng được)
-- series: hoàng loạt, dãy liên tiếp 
+- series: hàng loạt, dãy liên tiếp 
 - resent: bực bội   
 - serious: nghiêm trọng, nghiêm túc 
 - nervous: lo lắng
