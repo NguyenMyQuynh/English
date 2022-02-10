@@ -41,7 +41,7 @@
 - stock: (n) kho dự trữ, nguồn hàng, nguồn cung cấp; (v) tích trữ
 - stack: xếp chồng, chất đống
 - revise: ôn lại, duyệt lại, xem lại
-- review: kiểm tra lại
+- review: kiểm tra lại, xem lại, xét lại
 - competition: cuộc thi, sự cạnh tranh
 - petition: đơn kiến nghị
 - assemble: tập hợp, thu thập = gather: thu thập, tập hợp = bring together: nhóm lại, tập hợp, thu thập
