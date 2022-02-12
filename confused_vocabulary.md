@@ -34,6 +34,7 @@
 - encourage: khuyến khích, khích lệ
 
 ## Lesson 9-12: 
+- accommodate: làm cho thích nghi, cung cấp, đáp ứng 
 - facilitate: tạo ĐK, làm cho dễ dầng 
 - furniture: nội thất 
 - substitute = replace 
