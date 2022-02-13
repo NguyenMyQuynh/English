@@ -5,8 +5,9 @@
 ## Table of content:
 - [MẸO](#1-20_quiz_MẸO:)
 - [Thank](#thank)
-- [IrregularVerbs](#IrregularVerbs)
+- [IrregularVerbs](#Irregular_Verbs)
 - [Conditional_Sentences](#Conditional_Sentences)
+- Irregular Verbs<a name="IrregularVerbs" />
 
 ## 1-20_quiz_MẸO:
 
@@ -90,7 +91,7 @@
 
 <br>
 
-## IrregularVerbs
+## Irregular Verbs
 
 - wear-wore-worn
 - drive-drove-driven
