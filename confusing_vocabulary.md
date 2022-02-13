@@ -34,6 +34,8 @@
 - specify: định rõ 
 - satisfy: làm hài lòng 
 
+<br>
+  
 <div id="heading--2"/>
   
 <a href=#content>
@@ -57,6 +59,8 @@
 - bring in = hire = engage = recruit: thuê
 - reinforce: tăng cường, củng cố
 - encourage: khuyến khích, khích lệ
+  
+<br>
 
 <div id="heading--3"/>
   
@@ -76,13 +80,15 @@
 - competition: cuộc thi, sự cạnh tranh
 - petition: đơn kiến nghị
 - assemble: tập hợp, thu thập = gather: thu thập, tập hợp = bring together: nhóm lại, tập hợp, thu thập
+  
+<br>
 
 <div id="heading--4"/>
   
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Shuffle: (này t ghi mấy từ tui hay lộn, G coi hay không cũng được)
+## Shuffle: 
 - series: hàng loạt, dãy liên tiếp 
 - resent: bực bội   
 - serious: nghiêm trọng, nghiêm túc 
