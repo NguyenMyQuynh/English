@@ -2,16 +2,27 @@
 
 <br>
 
-# Table of content:
-1. [File MẸO](#mẹo)
-    1. [1-20 quiz MẸO](#1-20mẹo)
-2. [Conditional Sentences](#ConditionalSentences)
-3. [Irregular Verbs](#IrregularVerbs)
+# Content
+
+**[1. File MẸO](#heading--1)**
+
+  * [1.1. 1-20 quiz MẸO](#heading--1-1)
+
+**[2. Conditional Sentences](#heading--2)**
+
+
+**[3. Irregular Verbs](#heading--3)**
+
 
 <br>
 
-## File MẸO: <a name="mẹo"></a>
-### 1-20 quiz MẸO: <a name="1-20mẹo"></a>
+<div id="heading--1"/>
+
+## File MẸO: 
+
+<div id="heading--1-1"/>
+
+### 1-20 quiz MẸO: 
 
 - balance + of
 - Amost all of: hầu như tất cả 
@@ -46,7 +57,9 @@
 
 <br>
 
-## Conditional Sentences <a name="ConditionalSentences"></a>
+<div id="heading--2"/>
+
+## Conditional Sentences 
 - at/on the weekend
 - Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?
 
@@ -95,7 +108,9 @@
 
 <br>
 
-## Irregular Verbs <a name="IrregularVerbs"></a>
+<div id="heading--3"/>
+
+## Irregular Verbs 
 
 - wear-wore-worn
 - drive-drove-driven
