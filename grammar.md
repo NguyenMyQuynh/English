@@ -2,11 +2,11 @@
 
 <br>
 
-# Table of content:
-- ## [1-20 quiz MẸO](#120_quiz_MẸO:)
+## Table of content:
+- [1-20 quiz MẸO](#1-20_quiz_MẸO:)
 - [Thank](#thank)
 
-## 120_quiz_MẸO:
+## 1-20_quiz_MẸO:
 
 - balance + of
 - Amost all of: hầu như tất cả 
