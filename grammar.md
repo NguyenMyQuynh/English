@@ -4,14 +4,14 @@
 
 # Table of content:
 1. [File MẸO](#mẹo)
-    1. [1-20 quiz MẸO](1-20mẹo)
-2. [Conditional_Sentences](#ConditionalSentences)
+    1. [1-20 quiz MẸO](#1-20mẹo)
+2. [Conditional Sentences](#ConditionalSentences)
 3. [Irregular Verbs](#IrregularVerbs)
 
 <br>
 
 ## File MẸO: <a name="mẹo"></a>
-### 1-20_quiz_MẸO: <a name="1-20mẹo"></a>
+### 1-20 quiz MẸO: <a name="1-20mẹo"></a>
 
 - balance + of
 - Amost all of: hầu như tất cả 
@@ -44,7 +44,7 @@
 - invest: đầu tư 
 - investigation: cuộc điều tra  
 
-## Conditional_Sentences <a name="ConditionalSentences"></a>
+## Conditional Sentences <a name="ConditionalSentences"></a>
 - at/on the weekend
 - Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?
 
