@@ -3,7 +3,7 @@
 <br>
 
 ## Table of content:
-- [1-20 quiz MẸO](#1-20_quiz_MẸO:)
+- [MẸO](#1-20_quiz_MẸO:)
 - [Thank](#thank)
 
 ## 1-20_quiz_MẸO:
