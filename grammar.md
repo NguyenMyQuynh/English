@@ -5,6 +5,8 @@
 ## Table of content:
 - [MẸO](#1-20_quiz_MẸO:)
 - [Thank](#thank)
+- [IrregularVerbs](#IrregularVerbs)
+- [Conditional_Sentences](#Conditional_Sentences)
 
 ## 1-20_quiz_MẸO:
 
@@ -39,7 +41,7 @@
 - invest: đầu tư 
 - investigation: cuộc điều tra  
 
-## Conditional sentences
+## Conditional_Sentences
 - at/on the weekend
 - Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?
 
@@ -88,7 +90,7 @@
 
 <br>
 
-## Irregular Verbs
+## IrregularVerbs
 
 - wear-wore-worn
 - drive-drove-driven
