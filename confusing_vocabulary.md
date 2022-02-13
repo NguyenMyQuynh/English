@@ -1,5 +1,25 @@
-# TOEIC-600
+> *It contains confusing words*
 
+
+<div id="content"/>
+
+## Content
+
+**[1. Lesson 1-4](#heading--1)**
+
+**[2. Lesson 5-8](#heading--2)**
+
+**[3. Lesson 9-12](#heading--3)**
+
+**[4. Shuffle](#heading--4)**
+
+<br>
+
+<div id="heading--1"/>
+
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+  
 ## Lesson 1-4
 - warranties: bảo hành, sự đảm bảo
 - assurance: sự đảm bảo
@@ -13,6 +33,11 @@
 - evaluate = appreciate: đánh giá 
 - specify: định rõ 
 - satisfy: làm hài lòng 
+
+<div id="heading--2"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Lesson 5-8:
 - section: phần
@@ -33,6 +58,11 @@
 - reinforce: tăng cường, củng cố
 - encourage: khuyến khích, khích lệ
 
+<div id="heading--3"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
 ## Lesson 9-12: 
 - accommodate: làm cho thích nghi, cung cấp, đáp ứng 
 - facilitate: tạo ĐK, làm cho dễ dầng 
@@ -46,6 +76,11 @@
 - competition: cuộc thi, sự cạnh tranh
 - petition: đơn kiến nghị
 - assemble: tập hợp, thu thập = gather: thu thập, tập hợp = bring together: nhóm lại, tập hợp, thu thập
+
+<div id="heading--4"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Shuffle: (này t ghi mấy từ tui hay lộn, G coi hay không cũng được)
 - series: hàng loạt, dãy liên tiếp 
