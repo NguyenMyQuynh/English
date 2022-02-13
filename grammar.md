@@ -2,11 +2,13 @@
 
 <br>
 
-## Table of content:
+# Table of content:
 1. [File MẸO](#mẹo)
-    1. [1-20_quiz_MẸO](1-20mẹo)
+    1. [1-20 quiz MẸO](1-20mẹo)
 2. [Conditional_Sentences](#ConditionalSentences)
 3. [Irregular Verbs](#IrregularVerbs)
+
+<br>
 
 ## File MẸO: <a name="mẹo"></a>
 ### 1-20_quiz_MẸO: <a name="1-20mẹo"></a>
