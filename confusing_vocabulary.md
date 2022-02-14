@@ -26,7 +26,7 @@
 - inspire: truyền cảm hứng
 - expire: hết hạn
 - offer: đề xuất, đề nghị
-- request: yêu cầu = ask = request
+- request: yêu cầu = ask = require 
 - determine: quyết định
 - demonstrate: chứng minh, giải thích
 - convince = persuade: thuyết phục
@@ -46,7 +46,7 @@
 - session: phiên (phiên họp, buổi họp)
 - attend = join = take part in = participate : tham gia 
 - allocate = designate = distribute : phân phối 
-- compatible: tương thích ~ accommodating 
+- compatible: tương thích ~ commensurate ~ accommodating 
 - hold (tổ chức) ~ conduct (tiến hành)
 - delay: trì hoãn (=postpone=defer)
 - display: (n,v) trưng bày
@@ -59,6 +59,7 @@
 - bring in = hire = engage = recruit: thuê
 - reinforce: tăng cường, củng cố
 - encourage: khuyến khích, khích lệ
+- initiate ~ come up with 
   
 <br>
 
@@ -93,6 +94,12 @@
 - resent: bực bội   
 - serious: nghiêm trọng, nghiêm túc 
 - nervous: lo lắng
+- decent: tử tế
 - resent: bực bội 
 - dissention: sự bất đồng  
-- decent: tử tế
+- vary: thay đổi, bất đồng 
+- verbal: bằng lời nói
+- characteristic: (n,adj)
+- be in charge of: chịu trách nhiệm
+- stay on top of: cập nhật nắm bắt thông tin 
+- be exposed to: bị phơi bày 
