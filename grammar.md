@@ -7,6 +7,8 @@
 **[1. File MẸO](#heading--1)**
 
   * [1.1. 1-20 quiz MẸO](#heading--1-1)
+  * [1.1. 21-40 quiz MẸO](#heading--1-2)
+
 
 **[2. Conditional Sentences](#heading--2)**
 
@@ -60,6 +62,24 @@
 - investigation: cuộc điều tra  
 
 <br>
+ 
+ <div id="heading--1-2"/>
+
+### 21-40 quiz MẸO:
+ 
+ - on + tính từ sở hữu/ sở hữu cách + behalf: nhân danh ai, thay mặt cho ai, đại diện cho ai
+ - none of the + N
+ 
+ <br>
+ 
+ - efficient: có hiệu quả, có hiệu lực, có năng suất cao
+ - effortless: không cần hoặc ít nỗ lực, dễ dàng
+ - affluent: giàu có, thịnh vượng
+ - affective: xúc động, dễ xúc động
+ - few: ít nhưng không đủ làm gì
+ - a few: ít nhưng đủ làm gì
+ - approve of somebody/ something: bằng lòng, ưng thuận, tán thành ai/ cái gì
+ 
 
 <div id="heading--2"/>
  
