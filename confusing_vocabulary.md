@@ -51,6 +51,7 @@
 - be aware of: nhận thức 
 - come up with: nghĩ ra, nảy ra 
 - look up to: ngưỡng mộ, khâm phục 
+- be aware of: am hiểu về, nhận thức được
 - call in: gọi tới 
 
 
@@ -138,6 +139,7 @@
 - invest: đầu tư 
 - investigation: điều tra
 - vested: (adj) được trao cho, ban cho, được quyền, được phép
+- salary = wage :lương
 
 
 
