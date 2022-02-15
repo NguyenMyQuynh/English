@@ -177,6 +177,7 @@
 - let-let-let
 - lie-lay-lain: nằm
 - leave-left-left: ra đi, để lại
+- lose-lost-lost:làm mất
 - know-knew-known
 - lead-led-led: lãnh đạo
 - keep-kept-kept
