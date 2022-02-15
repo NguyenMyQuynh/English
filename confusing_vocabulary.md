@@ -59,7 +59,8 @@
 - bring in = hire = engage = recruit: thuê
 - reinforce: tăng cường, củng cố
 - encourage: khuyến khích, khích lệ
-- initiate ~ come up with 
+- initiate: khởi xướng
+- come up with: nghĩ ra, nảy ra 
   
 <br>
 
@@ -100,6 +101,21 @@
 - vary: thay đổi, bất đồng 
 - verbal: bằng lời nói
 - characteristic: (n,adj)
+- confident: tự tin 
+- independent: độc lập
+- constantly: liên tục 
+- follow up: theo sát, bước tiếp theo 
+- restrict: hạn chế
+- strictly: nghiêm ngặt 
+- technical: thuộc về công nghệ, chuyên môn, kĩ thuật
+- expertise: chuyên môn
+  
+<br>
+  
 - be in charge of: chịu trách nhiệm
-- stay on top of: cập nhật nắm bắt thông tin 
+- stay on top of: cập nhật, nắm bắt thông tin
+- keep up with: bắt kịp, theo kịp với 
 - be exposed to: bị phơi bày 
+- come up with: nghĩ ra, nảy ra 
+- look up to: ngưỡng mộ, khâm phục 
+- call in: gọi tới 
