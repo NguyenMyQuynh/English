@@ -80,7 +80,8 @@
  - a few: ít nhưng đủ làm gì
  - approve of somebody/ something: bằng lòng, ưng thuận, tán thành ai/ cái gì
  
-
+<br>
+ 
 <div id="heading--2"/>
  
 <a href=#content>
