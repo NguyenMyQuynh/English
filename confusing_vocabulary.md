@@ -33,7 +33,7 @@
 - decent: tử tế 
 - resent: bực bội 
 - recently: gần đây, mới đây
-- dissention: sự bất đồng  
+- dissention: sự bất đồng ý kiến ~ decrepancy:(n) sự khác nhau, sự bất đồng 
 - vary: thay đổi, bất đồng 
 - verbal: bằng lời nói
 - characteristic: (n,adj)
@@ -58,6 +58,7 @@
 - achieve: đạt được
 - regulation: quy định 
 - regulary = frequently: thường xuyên 
+- several: vài 
 - rarely: hiếm khi 
 - recently: gần đây, mới đây
 - almost: hầu như, gần như 
@@ -66,6 +67,15 @@
 - inspect: quan sát, kiểm tra, giám sát 
 - invest: đầu tư 
 - investigation: cuộc điều tra 
+- inventory: (v,n) kiểm kê, hàng tồn kho 
+- impress: gây ấn tượng
+- impressive: ấn tượng
+- imposing: áp đặt, ấn tượng, trang nghiêm 
+- impose: áp đặt, bắt ..
+- expose: lộ ra, phơi bày  
+- pressure: áp lực  
+- express: nhanh, thể hiện, bày tỏ 
+- significiant: có ý nghĩa, quan trọng ~ important = crucial  
   
 <br>
   
@@ -168,7 +178,10 @@
 - investigation: điều tra
 - vested: (adj) được trao cho, ban cho, được quyền, được phép
 - salary = wage :lương
-
+- madatory = obiligate 
+- contentment: sự hài lòng (=satisfaction)
+- *discovery* = exploration : sự khám phá
+- *delivery: vận chuyển*
 
 <br>
 
@@ -183,6 +196,17 @@
 - obtain: đạt được, giành được 
 - achieve: đạt được, hoàn thành = accomplish 
 - accomplishment = achievement = success 
+- integral = essential = neccesary  : cần thiết 
+- supply = provide ~ accommodate: cung cấp
+- on hand = available : có sẵn 
+- beforehand: trước, sớm, sẵn sàng trước
+- avoid: tránh 
+- advice: lời khuyên 
+- invoice: hóa đơn 
+- efficient: có hiệu quả
+- affect: ảnh hưởng 
+- impose: bắt ai làm gì đó, áp đặt
+- expose: lộ ra, phơi bày  
   
 - qualification: (n) bằng cấp, skill, năng lực, trình độ chuyên môn 
 - qualify: (v) đủ điều kiện, tiêu chuẩn, khả năng, tư cách (Thường đi với FOR)
