@@ -12,7 +12,7 @@
   * [2.2. 21-40 quiz MẸO](#heading--2-2)
 
 
-**[3. Conditional Sentences](#heading--3)**
+**[3.  Would/ Do you mind ...](#heading--3)**
 
 
 **[4. Irregular Verbs](#heading--4)**
@@ -51,6 +51,9 @@
 - (ought to = should) + Vo
 - Sau because, although, as là một mệnh đề  
 - be pleased to Vo : sẵn lòng làm gì
+- at/on the weekend    
+- pick me up: đón tui
+- go mad: điên lên
  
 
 <br>
@@ -61,6 +64,7 @@
  
  - on + tính từ sở hữu/ sở hữu cách + behalf: nhân danh ai, thay mặt cho ai, đại diện cho ai
  - none of the + N
+
  
  <br>
  
@@ -79,10 +83,9 @@
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Conditional Sentences 
-- at/on the weekend
-- Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?
+## Would/ Do you mind ...
 
+ - Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?   
      Để đồng ý lời yêu cầu:
      
           No, I don’t mind.  (Không, tôi không thấy phiền./Tôi không bận tâm đâu.)
@@ -122,9 +125,7 @@
       I’d rather you didn’t.  (“Tôi nghĩ bạn không nên làm thế.”)
       I’m sorry. That’s not possible.  (Xin lỗi, không thể được.)
       I’d rather/ prefer you didn’t. (bạn không làm thì tốt hơn)
-      
-- pick me up: đón tui
-- go mad: điên lên
+
 
 <br>
 
