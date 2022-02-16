@@ -15,6 +15,8 @@
 
 **[5. Lesson 13-16](#heading--5)**
 
+**[6. Lesson 17-20](#heading--6)**
+
 <br>
 
 <div id="heading--1"/>
@@ -23,25 +25,6 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Shuffle: 
-- qualification: (n) bằng cấp, skill, năng lực, trình độ chuyên môn 
-- qualify: (v) đủ điều kiện, tiêu chuẩn, khả năng, tư cách (Thường đi với FOR)
-  <br> EX:
-    - To qualify for the competition, you must be over 18. 
-    - His disability qualifies him for extra benefits.
-- qualified: (adj)  đủ điều kiện, tiêu chuẩn
-  <br> 
-    - Vừa đứng một mình, vừa đứng trước danh từ được:
-      - He's recently qualified as a doctor.
-      - She is a highly qualified accountant.
-    - be qualified to do sth: đủ tiêu chuẩn làm gì 
-      - I think John is the best qualified to make that decision.
-- quality (danh từ không đếm được): chất lượng;  qualities (danh từ đếm được): phẩm chất
-  <br> EX:
-    - The air quality in this area is terrible.
-    - Joe has a lot of good qualities, but I don't think he has the ability to discipline the team.
-  
-  <br>
-  
 - series: hàng loạt, dãy liên tiếp 
 - serious: nghiêm trọng, nghiêm túc 
 - nervous: lo lắng 
@@ -56,11 +39,6 @@
 - characteristic: (n,adj)
 - confident: tự tin 
 - independent: độc lập
-- constantly: liên tục 
-- maintain: duy trì, liên tục 
-- obtain: đạt được, giành được 
-- achieve: đạt được, hoàn thành = accomplish 
-- accomplishment = achievement = success 
 - restrict: hạn chế
 - strictly: nghiêm ngặt 
 - technical: thuộc về công nghệ, chuyên môn, kĩ thuật
@@ -192,4 +170,33 @@
 - salary = wage :lương
 
 
+<br>
 
+<div id="heading--6"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## Lesson 17-20:
+- constantly: liên tục 
+- maintain: duy trì, liên tục 
+- obtain: đạt được, giành được 
+- achieve: đạt được, hoàn thành = accomplish 
+- accomplishment = achievement = success 
+  
+- qualification: (n) bằng cấp, skill, năng lực, trình độ chuyên môn 
+- qualify: (v) đủ điều kiện, tiêu chuẩn, khả năng, tư cách (Thường đi với FOR)
+  <br> EX:
+    - To qualify for the competition, you must be over 18. 
+    - His disability qualifies him for extra benefits.
+- qualified: (adj)  đủ điều kiện, tiêu chuẩn
+  <br> 
+    - Vừa đứng một mình, vừa đứng trước danh từ được:
+      - He's recently qualified as a doctor.
+      - She is a highly qualified accountant.
+    - be qualified to do sth: đủ tiêu chuẩn làm gì 
+      - I think John is the best qualified to make that decision.
+- quality (danh từ không đếm được): chất lượng;  qualities (danh từ đếm được): phẩm chất
+  <br> EX:
+    - The air quality in this area is terrible.
+    - Joe has a lot of good qualities, but I don't think he has the ability to discipline the team.
