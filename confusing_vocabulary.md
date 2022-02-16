@@ -24,10 +24,11 @@
 
 ## Shuffle: 
 - series: hàng loạt, dãy liên tiếp 
-- resent: bực bội   
 - serious: nghiêm trọng, nghiêm túc 
 - nervous: lo lắng
-- decent: tử tế
+- obvious: rõ ràng, hiển nhiên 
+- outright: (adj) công khai, rõ ràng, tất cả, toàn bộ 
+- decent: tử tế 
 - resent: bực bội 
 - dissention: sự bất đồng  
 - vary: thay đổi, bất đồng 
@@ -36,11 +37,36 @@
 - confident: tự tin 
 - independent: độc lập
 - constantly: liên tục 
-- follow up: theo sát, bước tiếp theo 
+- maintain: duy trì, liên tục 
+- obtain: đạt được, giành được 
+- achieve: đạt được, hoàn thành = accomplish 
+- accomplishment = achievement = success 
 - restrict: hạn chế
 - strictly: nghiêm ngặt 
 - technical: thuộc về công nghệ, chuyên môn, kĩ thuật
 - expertise: chuyên môn
+- alert = inform = announce :thông báo 
+- imply:ẩn ý ~ allude:ám chỉ 
+- defer = delay = postpone = put off 
+- occasion: cơ hội
+- associate: kết hợp
+- organization: tổ chức 
+- negotiate: đàm phán
+- recognition (recognization-ít dùng hơn): sự công nhận 
+- arraign : buộc tội, tố cáo
+- arrange: sắp xếp
+- again: lần nữa 
+- against: chống lại
+- achieve: đạt được
+- regulation: quy định 
+- regulary = frequently: thường xuyên 
+- rarely: hiếm khi 
+- almost: hầu như, gần như 
+- mostly: phần lớn, chủ yếu là   
+- probably: có lẽ, chắc là 
+- inspect: quan sát, kiểm tra, giám sát 
+- invest: đầu tư 
+- investigation: cuộc điều tra 
   
 <br>
   
@@ -53,6 +79,9 @@
 - look up to: ngưỡng mộ, khâm phục 
 - be aware of: am hiểu về, nhận thức được
 - call in: gọi tới 
+- follow up: theo sát, bước tiếp theo 
+- look forward to + Ving: trông chờ, mong đợi
+- looked to: nhờ vào, trông cậy vào, phụ thuộc vào = depend on = rely on 
 
 
 <br>
