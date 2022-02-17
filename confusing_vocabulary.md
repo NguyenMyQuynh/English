@@ -25,6 +25,12 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Shuffle: 
+- demand: nhu cầu 
+- command: yêu cầu, mệnh lệnh, ra lệnh  
+- recommend: giới thiệu 
+- sufficient: đủ  
+- significiant: có ý nghĩa, dáng kể, quan trọng ~ important = crucial  
+- integral = essential = necessary  : cần thiết 
 - series: hàng loạt, dãy liên tiếp 
 - serious: nghiêm trọng, nghiêm túc 
 - nervous: lo lắng 
@@ -75,7 +81,7 @@
 - expose: lộ ra, phơi bày  
 - pressure: áp lực  
 - express: nhanh, thể hiện, bày tỏ 
-- significiant: có ý nghĩa, quan trọng ~ important = crucial  
+
   
 <br>
   
