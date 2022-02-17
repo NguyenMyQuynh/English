@@ -150,6 +150,8 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Lesson 9-12: 
+- *accurate: (adj) chính xác (=exact)*
+- *accuracy: sự chính xác*
 - accommodate: làm cho thích nghi, cung cấp, đáp ứng 
 - facilitate: tạo ĐK, làm cho dễ dầng 
 - *furniture: nội thất* 
@@ -172,6 +174,7 @@
 ## Lesson 13-16: 
 - duplicate: (v,n) sao chép, bản sao
 - delicate: (adj) tinh tế, tế nhị, nhạy bén, khéo léo
+- dedicate = devote: cống hiến
 - *elegant: thanh lịch*
 - eligible: (adj) đủ tư cách, thích hợp, đạt chuẩn
 - invest: đầu tư 
@@ -182,6 +185,7 @@
 - contentment: sự hài lòng (=satisfaction)
 - *discovery* = exploration : sự khám phá
 - *delivery: vận chuyển*
+- *diversity: sự đa dạng*
 
 <br>
 
@@ -196,7 +200,8 @@
 - obtain: đạt được, giành được 
 - achieve: đạt được, hoàn thành = accomplish 
 - accomplishment = achievement = success 
-- integral = essential = neccesary  : cần thiết 
+- integral = essential = necessary  : cần thiết 
+- *stationery: văn phòng phẩm*
 - supply = provide ~ accommodate: cung cấp
 - on hand = available : có sẵn 
 - beforehand: trước, sớm, sẵn sàng trước
@@ -204,10 +209,11 @@
 - advice: lời khuyên 
 - invoice: hóa đơn 
 - efficient: có hiệu quả
+- sufficient: đủ
 - affect: ảnh hưởng 
 - impose: bắt ai làm gì đó, áp đặt
 - expose: lộ ra, phơi bày  
-  
+- eligible: (adj) đủ tư cách, thích hợp, đạt chuẩn
 - qualification: (n) bằng cấp, skill, năng lực, trình độ chuyên môn 
 - qualify: (v) đủ điều kiện, tiêu chuẩn, khả năng, tư cách (Thường đi với FOR)
   <br> EX:
