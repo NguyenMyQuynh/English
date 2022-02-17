@@ -12,13 +12,25 @@
   * [2.2. 21-40 quiz MẸO](#heading--2-2)
 
 
-**[3.  Would/ Do you mind ...](#heading--3)**
+**[3. Rút gọn mệnh đề chung chủ ngữ](#heading--3)**
 
 
-**[4. Irregular Verbs](#heading--4)**
+**[4.  Would/ Do you mind ...](#heading--4)**
 
 
-**[5. Subject – Verb Agreement](#heading--5)**
+**[5. Irregular Verbs](#heading--5)**
+
+
+**[6. Conditional sentences](#heading--6)**
+
+
+**[7. Passive Voice](#heading--7)**
+
+
+**[8. Subject – Verb Agreement](#heading--8)**
+
+**[9. Thì](#heading--9)**
+
 
 
 <br>
@@ -85,7 +97,17 @@
  
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
-
+ 
+## Rút gọn mệnh đề chung chủ ngữ
+ 
+ 
+<br>
+ 
+<div id="heading--4"/>
+ 
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+ 
 ## Would/ Do you mind ...
 
  - Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?   
@@ -132,7 +154,7 @@
 
 <br>
 
-<div id="heading--4"/>
+<div id="heading--5"/>
  
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
@@ -187,12 +209,40 @@
 - forgive forgave forgiven" tha thứ
 - fly flew flown: bay
  
-<br>
+ 
+ <br>
 
-<div id="heading--5"/>
+<div id="heading--6"/>
+ 
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## Conditional sentences:
+ 
+ <br>
+
+<div id="heading--7"/>
+ 
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## Passive Voice
+ 
+ <br>
+
+<div id="heading--8"/>
  
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Subject – Verb Agreement
+ 
+ <br>
+
+<div id="heading--9"/>
+ 
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## Thì
 
