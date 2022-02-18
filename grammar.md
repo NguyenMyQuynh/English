@@ -29,7 +29,8 @@
 
 **[8. Subject – Verb Agreement](#heading--8)**
 
-**[9. Thì](#heading--9)**
+
+**[9. Tense](#heading--9)**
 
 
 
@@ -48,6 +49,7 @@
      - a satisfying meal.
      - My work is very satisfying.
 
+<br>
 <br>
 
 <div id="heading--2"/>
@@ -91,7 +93,7 @@
  - a few: ít nhưng đủ làm gì
  - approve of somebody/ something: bằng lòng, ưng thuận, tán thành ai/ cái gì
  
-<br>
+<br> <br>
  
 <div id="heading--3"/>
  
@@ -112,7 +114,7 @@
     
  
  
-<br>
+<br> <br>
  
 <div id="heading--4"/>
  
@@ -163,7 +165,7 @@
       I’d rather/ prefer you didn’t. (bạn không làm thì tốt hơn)
 
 
-<br>
+<br> <br>
 
 <div id="heading--5"/>
  
@@ -221,7 +223,7 @@
 - fly flew flown: bay
  
  
- <br>
+ <br> <br>
 
 <div id="heading--6"/>
  
@@ -238,7 +240,7 @@
  
  
  
- <br>
+ <br> <br>
 
 <div id="heading--7"/>
  
@@ -246,8 +248,77 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Passive Voice
+ ![image](https://user-images.githubusercontent.com/62002485/154706311-4c2ab369-ec7e-40c0-88fb-90204c43691d.png)
  
  <br>
+ 
+ Tense | Active | Passive
+ -----|---------|-------
+ Simple present tense | S + V(s/es) + O | S + am/is/are + Ved/V3
+ Present continuous tense | S + am/is/are + V-ing + O| S + am/is/are + being + Ved/V3
+ Present perfect tense| S + have/has + Ved/V3 + O| S + have/has + been + Ved/V3
+ Past simple tense| S + V(ed/V2) + O| S + was/were + Ved/V3
+ Past continuous tense|S + was/were + V-ing + O|S + was/were + being + Ved/V3
+ Past perfect tense|S + had + Ved/V3 + O|S + had + been + Ved/V3
+ Simple future tense|S + will + V-infi + O|S + will + be + Ved/V3
+ Future perfect tense|S + will + have + Ved/V3 + O|S + will + have + been + Ved/V3
+ Tương lai gần|S + am/is/are going to + V-infi + O|S + am/is/are going to + be + Ved/V3
+ Model verb | S + MV + V-infi + O|S + MV + be + Ved/V3
+ 
+<br> <br>
+ 
+- Khi câu chủ động là câu nhờ vả với `“have”, “get”, “make”…`
+ 
+           S + have + Sb + V  + O …
+           → S +  have + O + V3/V_ed + (by Sb)
+ 
+           EX: 
+           Marie has her daughter buy a cup of coffee.
+           → Marie has a cup of coffee bought by her daughter.
+ 
+  <br>
+ 
+           S + make … + Sb + V + O …
+           → Sb + be + made + to V + O …
+
+           EX:
+           John makes the hairdresser cut his hair.
+           → His hair is made to cut by the hairdresser.
+ 
+  <br>
+ 
+           S + get + Sb + to V + O… 
+           → S + get + O + to be + V3/V_ed (by sb)
+
+           EX:
+           Julie gets her husband to clean the kitchen for her.
+           → Julie gets the kitchen cleaned by her husband.
+ 
+ <br>
+ 
+- Bị động với những động từ có 2 tân ngữ: `give (đưa), lend (cho mượn), send (gửi), show (chỉ), buy (mua), make (làm), get (cho), …` thì ta sẽ có 2 câu bị động.
+ 
+         
+           EX:
+           He sends his relative a letter.
+             -> His relative was sent a letter.
+             -> A letter was sent to his relative.
+ 
+ <br>
+ 
+ - Câu bị động có động từ tường thuật: `assume, think, consider, know, believe, say, suppose, suspect, rumour, declare, feel, find, know, report, claim, expect, …`
+ 
+            S + V + that + S’ + V’ + O …
+              → Cách 1: S' + be + V_ed/V3 + to V’
+              → Cách 2: It + be + V_ed/V3 + that + S’ + V’
+
+            EX:
+             People say that Adam is very rich.
+               → Adam is said to be very rich.
+               → It’s said that Adam is very rich.
+ 
+
+ 
 
 <div id="heading--8"/>
  
@@ -256,12 +327,11 @@
 
 ## Subject – Verb Agreement
  
- <br>
+ <br> <br>
 
 <div id="heading--9"/>
  
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Thì
-
+## Tense
