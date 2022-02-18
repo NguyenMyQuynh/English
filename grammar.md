@@ -98,7 +98,18 @@
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
  
-## Rút gọn mệnh đề chung chủ ngữ
+## Rút gọn mệnh đề chung chủ ngữ:
+ 
+`Ving` hoặc `Ved/V3` đứng ở đầu câu, và ở giữa câu sẽ có dấy phẩy ( , ). Mục đích của dạng này là để kết hợp 2 câu đơn chung chủ ngữ thành một câu ghép.
+- Dạng chủ động:
+  <br> EX:
+  I saw my girlfriend kissing a strange guy yesterday. I felt my heart broken.
+ <br> = Seeing my girlfriend kissing a strange guy yesterday, I felt my heart broken.
+- Dạng bị động:
+  <br> EX:
+  That restaurant is located near Guom Lake. That restaurant is my favorite place.
+ <br>= Located near Guom Lake, that restaurant is my favorite place.
+    
  
  
 <br>
@@ -218,6 +229,14 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Conditional sentences:
+ Loại| Cách dùng | Công thức| Dạng rút gọn| Ví dụ
+ ----|----------|-----------|-------------|------
+ 0| Điều kiện diễn tả thói quen, sự thật hiển nhiên|If + S + `V(hiện tại đơn)`, S + `V(hiện tại đơn)`| | |
+ 1| Điều kiện có thể xảy ra ở hiện tại hoặc tương lai|If + S + `V(hiện tại đơn)`, S + `will/can + V0`||If it `does not` rain, I will go shopping.
+ 2| Điều kiện không có thật ở hiện tại| If + S + `were/V2`, S + `would/could + V0`|  `Were` + S + ..., S + would/could + V0 <br> <br> `Were + S + to V0`, S + would/could + V0|If I were you, I would marry her <br> = Were I you, I would marry her. <br> <br> If my dog knew how to speak human language, he would become famous <br> = Were my dog to know how to speak human language, he would become famous.
+ 3|Điều kiện không có thật trong quá khứ|If + S + `had + Ved/V3`, S + `would/could + have + Ved/V3`|`Had + S + Ved/V3`, S + would/could + have + Ved/V3|If you had helped me yesterday, I could have passed the test <br> = Had you helped me yesterday, I could have passed the test.
+ 
+ 
  
  <br>
 
