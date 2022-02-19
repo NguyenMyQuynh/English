@@ -36,6 +36,7 @@
 - nervous: lo lắng 
 - obvious: rõ ràng, hiển nhiên 
 - outright: (adj) công khai, rõ ràng, tất cả, toàn bộ 
+- absent: (adj) vắng mặt 
 - decent: tử tế 
 - resent: bực bội 
 - recently: gần đây, mới đây
@@ -201,6 +202,17 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Lesson 17-20:
+- *hesitate: do dự*
+- estimate: đánh giá, ước lượng
+- prompt: (adj) nhanh chóng, ngay tức thì; (n) kỳ hạn trả nợ; (v) xúi, giục, nhắc nhở 
+- express: (adj) nhanh, hỏa tốc ; (v) thể hiện
+- rectify: sửa lại cho đúng 
+- verify: xác nhận
+- *interrupt: làm gián đoạn*
+- disturb: làm rối loạn, gây cản trở, quấy rầy
+- disturbingly: (adv) đáng lo ngại 
+- significiant: đáng kể, có ý nghĩa, quan trọng
+- discrepancy: sự bất đồng 
 - constantly: liên tục 
 - maintain: duy trì, liên tục 
 - obtain: đạt được, giành được 
