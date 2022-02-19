@@ -177,7 +177,7 @@
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Irregular Verbs 
+## Irregular Verbs:
 
 - wear-wore-worn
 - drive-drove-driven
@@ -252,7 +252,7 @@
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Passive Voice
+## Passive Voice:
  ![image](https://user-images.githubusercontent.com/62002485/154706311-4c2ab369-ec7e-40c0-88fb-90204c43691d.png)
  
  <br>
@@ -410,13 +410,56 @@
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Subject – Verb Agreement
+## Subject – Verb Agreement:
  
- <br> <br>
+ <br> 
+ 
+ - Singular subject + singular verb:
+ 
+ Một số chủ ngữ thường gặp|Ví dụ 
+ -------------------------|-----
+ Uncountable nouns (Danh từ không đếm được)|Furniture, workload, information, knowledge, luggage, news,...
+ One of / Each one of / Either of / neither of + plural noun (danh từ số nhiều)|One of my friends, each one of us, either of those dresses, neither of those books,...
+ Another + singular noun|Another opportunity, another project, ...
+ Each + singular noun (Danh từ số ít)|Each time, each book, each employer,...
+ Every + singular noun|Every business, every city, every country,...
+ Verb – ing / To – Verb|Walking, to complete researches, ...
+ The number of + plural noun|The number of students, the number of documents, ...
+ Names of organizations, countries which are plural in form but singular in meaning (Tên của những tổ chức, tên nước được viết dưới dạng danh từ số nhiều nhưng mang nghĩa số ít)|Philippines, The United States,...
+ Names of companies, corporations... that end in –s (Tên của các công ty, doanh nghiệp,... có kết thúc bằng chữ s)|Viva Productions, Britz Motors, ...
+ None of the + plural noun|None of the girls, none of the directors,...
+ Nouns denoting prices/ weights/ periods of time/proper nouns/names of subjects (Danh từ định lượng về giá cả/ cân nặng/ khoảng thời gian/ Danh từ riêng/ Tên các môn học)|400$, 50 kg, another 5 months, economics, history, ...
+ 
+ 
+ EX: 
+       <br> One of the studies (show / `shows`) that pigs like sweet tastes.
+       <br> Each project (`is` / are) a fresh encounter with the media world.
+       <br> The number of passengers (`has` / have) grown since 2015.
+       <br> None of the candidates (`was` / were) selected for the training session last Monday.
 
+ <br><br>
+ 
+ - Plural subject + plural verb:
+ 
+  Một số chủ ngữ thường gặp|Ví dụ 
+ -------------------------|-----
+ Plural nouns (Danh từ số nhiều)|Cats, magazines, watches, ...
+ The + adj (= a group of people in general)|The rich, the poor, the young, ...
+ Some (of the)+ plural noun|Some dictionaries, some documents, some researches,...
+ A lot of + plural noun|A lot of friends, a lot of sandwiches, a lot of machines,...
+ A number of + plural noun|A number of stores, a number of technology devices,...
+ Two thirds + of plural noun|Two thirds of the citizens, two thirds of Americans, ...
+ 
+ EX:
+ <br> Nearly two-thirds of the students at Bexford High School (is / `are`) overweight.
+ <br> The copy `machines` in the company (is / `are`) all out of order.
+ <br> The fragile `goods` in the storage (`need` / needs) to be delivered before the customers come in tomorrow.
+ 
+<br><br> 
+ 
 <div id="heading--9"/>
  
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Tense
+## Tense:
