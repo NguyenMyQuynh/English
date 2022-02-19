@@ -48,6 +48,11 @@
      - The demonstrators are not satisfied with the government's tax proposals.
      - a satisfying meal.
      - My work is very satisfying.
+ 
+- active: chủ động
+- passive: bị động 
+- negative: phủ định
+- positive: khẳng định
 
 <br>
 <br>
@@ -294,15 +299,7 @@
            Julie gets her husband to clean the kitchen for her.
            → Julie gets the kitchen cleaned by her husband.
  
- <br>
- 
-- Bị động với những động từ có 2 tân ngữ: `give (đưa), lend (cho mượn), send (gửi), show (chỉ), buy (mua), make (làm), get (cho), …` thì ta sẽ có 2 câu bị động.
- 
-         
-           EX:
-           He sends his relative a letter.
-             -> His relative was sent a letter.
-             -> A letter was sent to his relative.
+
  
  <br>
  
@@ -317,9 +314,97 @@
                → Adam is said to be very rich.
                → It’s said that Adam is very rich.
  
+<br>
+ 
+ - Câu bị động với các động từ chỉ quan điểm, ý kiến như: `think, say, suppose, believe, consider, report…`
+ 
+            EX:
+            People think she bought the flower in the opposite store.
+ 
+             → It is thought that she bought the flower in the opposite store.
+             → She is thought to have bought the flower in the opposite store.
+ 
+ 
+  <br>
+ 
+- Bị động với những động từ có 2 tân ngữ: `give (đưa), lend (cho mượn), send (gửi), show (chỉ), buy (mua), make (làm), get (cho), …` thì ta sẽ có 2 câu bị động.
+ 
+         
+           EX:
+           He sends his relative a letter.
+ 
+             -> His relative was sent a letter.
+             -> A letter was sent to his relative.
+ 
+ <br>
+ 
+ - Câu bị động với các động từ chỉ giác quan như: `see, hear, watch, look, notice,…`
+ 
+ 
+          S + be + V3/V_ed + Sb + V_ing (nhìn/ xem/ nghe… ai đó đang làm gì)
+           He watched them playing basketball.
+          → They were watched playing basketball.
+ 
+ 
+          S + be + V3/V_ed + Sb + V (nhìn/ xem/ nghe… ai đó làm gì)
+           I heard her cry.
+          → She was heard to cry.
+
+ <br>
+ 
+ - Khi câu chủ động là câu mệnh lệnh:
+
+          Khẳng định:    V + O	                                       → Let + O + be + V3/V_ed
+          Phủ định:      Don’t  + V + O	                       → Don’t let + O + be + V3/V_ed
+
+          EX: 
+           Do the exercise!
+          → Let the exercise be done!
+
+          Don’t leave her alone!
+          → Don’t let her be left alone!
+ 
+ <br>
+ 
+- Khi câu chủ động là câu hỏi Y/N question:
+ 
+          Do/does + S + V-infi + O …?
+          → Am/ is/ are + S’ + V3/V_ed + (by O)?
+
+          EX:
+          Do you clean your classroom?
+          → Is your classroom cleaned (by you)?
+ 
+  <br>
+ 
+          Did + S + V-infi + O…?
+          → Was/were + S’ + V3/V_ed + by + …?
+
+          EX:
+          Can you bring your workbook to my desk?
+          → Can you workbook be brought to my desk?
+ 
+  <br>
+ 
+          Modal verbs + S + V-infi + O + …?
+          → Modal verbs + S’ + be + V3/V_ed + by + O’?
+
+          EX:
+          Can you move the table?
+          → Can the table be moved?
+ 
+  <br>
+ 
+          Have/has/had + S + Ved/P2 + O + …?
+          → Have/ has/ had + S’ + been + V3/V_ed + by + O’?
+
+          EX:
+          Has she done her homework?
+          → Has her homework been done (by her)?
 
  
-
+ <br> <br>
+ 
 <div id="heading--8"/>
  
 <a href=#content>
