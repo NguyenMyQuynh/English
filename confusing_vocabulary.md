@@ -17,6 +17,8 @@
 
 **[6. Lesson 17-20](#heading--6)**
 
+**[7. Lesson 21-24](#heading--6)**
+
 <br>
 
 <div id="heading--1"/>
@@ -82,6 +84,9 @@
 - expose: lộ ra, phơi bày  
 - pressure: áp lực  
 - express: nhanh, thể hiện, bày tỏ 
+- complie: thu thập tài liệu, biên soạn, biên dịch 
+- audit: kiểm toán 
+- edit: chỉnh sửa, biên tập
 
   
 <br>
@@ -248,3 +253,24 @@
   <br> EX:
     - The air quality in this area is terrible.
     - Joe has a lot of good qualities, but I don't think he has the ability to discipline the team.
+  
+  
+<br>
+
+<div id="heading--6"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## Lesson 21-24:
+- *deposit: vật gửi, tiền đặt cọc, tiền gửi vào TK ngân hàng..*
+- balance: (n) số dư TK, bản quyết toán thu chi; (v) quyết toán,, cân dối TK
+- tedious: tẻ nhạt
+- cautious: cẩn trọng 
+- deduct = subtract : khấu trừ 
+- deductible: (adj)
+- conceal: giấu giếm, che đậy
+- reconcile: đành chấp nhận, cam chịu, làm thích hợp, phù hợp, hòa giải
+- accommodate: làm thích hợp, cung cấp, đáp ứng 
+
+  
