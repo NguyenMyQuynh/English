@@ -17,7 +17,7 @@
 
 **[6. Lesson 17-20](#heading--6)**
 
-**[7. Lesson 21-24](#heading--6)**
+**[7. Lesson 21-24](#heading--7)**
 
 <br>
 
@@ -257,7 +257,7 @@
   
 <br>
 
-<div id="heading--6"/>
+<div id="heading--7"/>
   
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
