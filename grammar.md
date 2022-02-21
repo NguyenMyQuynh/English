@@ -86,6 +86,7 @@
  
  - on + tính từ sở hữu/ sở hữu cách + behalf: nhân danh ai, thay mặt cho ai, đại diện cho ai
  - none of the + N
+ - advise that sb (should) + V: (lời khuyên)
 
  
  <br>
