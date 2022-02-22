@@ -42,7 +42,7 @@
 - decent: tử tế 
 - resent: bực bội 
 - recently: gần đây, mới đây
-- dissention: sự bất đồng ý kiến ~ decrepancy:(n) sự khác nhau, sự bất đồng 
+- dissention: sự bất đồng ý kiến ~ discrepancy:(n) sự khác nhau, sự bất đồng 
 - vary: thay đổi, bất đồng 
 - verbal: bằng lời nói
 - characteristic: (n,adj)
