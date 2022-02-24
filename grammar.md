@@ -131,7 +131,8 @@
  
 ## Would/ Do you mind ...
 
- - Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?   
+ - **Would/ Do you mind V-ing ...?: Bạn có phiền làm gì đó hay không?**  
+ 
      Để đồng ý lời yêu cầu:
      
           No, I don’t mind.  (Không, tôi không thấy phiền./Tôi không bận tâm đâu.)
@@ -151,7 +152,7 @@
           I’m sorry. That’s not possible.  (Tôi xin lỗi. Điều đó là không thể.)
           I’d rather/ prefer you didn’t. (bạn không làm thì tốt hơn)
 
-- Would you mind if S + Vpast simple …? hoặc Do you mind if S + Vpresent simple …?: Bạn có phiền không nếu tôi làm gì?
+- **Would you mind if S + Vpast simple …? hoặc Do you mind if S + Vpresent simple …?: Bạn có phiền không nếu tôi làm gì?**
 
     Nếu không thấy phiền ta có thể nói
 
@@ -275,7 +276,7 @@
  
 <br> <br>
  
-- Khi câu chủ động là câu nhờ vả với `“have”, “get”, “make”…`
+- **Khi câu chủ động là câu nhờ vả với `“have”, “get”, “make”…`**
  
            S + have + Sb + V  + O …
            → S +  have + O + V3/V_ed + (by Sb)
@@ -306,7 +307,7 @@
  
  <br>
  
- - Câu bị động có động từ tường thuật: `assume, think, consider, know, believe, say, suppose, suspect, rumour, declare, feel, find, know, report, claim, expect, …`
+ - **Câu bị động có động từ tường thuật: `assume, think, consider, know, believe, say, suppose, suspect, rumour, declare, feel, find, know, report, claim, expect, …`**
  
             S + V + that + S’ + V’ + O …
               → Cách 1: S' + be + V_ed/V3 + to V’
@@ -319,7 +320,7 @@
  
 <br>
  
- - Câu bị động với các động từ chỉ quan điểm, ý kiến như: `think, say, suppose, believe, consider, report…`
+ - **Câu bị động với các động từ chỉ quan điểm, ý kiến như: `think, say, suppose, believe, consider, report…`**
  
             EX:
             People think she bought the flower in the opposite store.
@@ -330,7 +331,7 @@
  
   <br>
  
-- Bị động với những động từ có 2 tân ngữ: `give (đưa), lend (cho mượn), send (gửi), show (chỉ), buy (mua), make (làm), get (cho), …` thì ta sẽ có 2 câu bị động.
+- **Bị động với những động từ có 2 tân ngữ: `give (đưa), lend (cho mượn), send (gửi), show (chỉ), buy (mua), make (làm), get (cho), …` thì ta sẽ có 2 câu bị động.**
  
            EX:
            He sends his relative a letter.
@@ -340,7 +341,7 @@
  
  <br>
  
- - Câu bị động với các động từ chỉ giác quan như: `see, hear, watch, look, notice,…`
+ - **Câu bị động với các động từ chỉ giác quan như: `see, hear, watch, look, notice,…`**
  
  
             S + be + V3/V_ed + Sb + V_ing (nhìn/ xem/ nghe… ai đó đang làm gì)
@@ -354,7 +355,7 @@
 
  <br>
  
- - Khi câu chủ động là câu mệnh lệnh:
+ - **Khi câu chủ động là câu mệnh lệnh:**
 
             Khẳng định:    V + O	                                       → Let + O + be + V3/V_ed
             Phủ định:      Don’t  + V + O	                       → Don’t let + O + be + V3/V_ed
@@ -368,7 +369,7 @@
  
  <br>
  
-- Khi câu chủ động là câu hỏi Y/N question:
+- **Khi câu chủ động là câu hỏi Y/N question:**
  
             Do/does + S + V-infi + O …?
             → Am/ is/ are + S’ + V3/V_ed + (by O)?
@@ -416,7 +417,7 @@
  
  <br> 
  
- - Singular subject + singular verb:
+ - **Singular subject + singular verb:**
  
  Một số chủ ngữ thường gặp|Ví dụ 
  -------------------------|-----
@@ -441,7 +442,7 @@
 
  <br><br>
  
- - Plural subject + plural verb:
+ - **Plural subject + plural verb:**
  
   Một số chủ ngữ thường gặp|Ví dụ 
  -------------------------|-----
@@ -456,6 +457,29 @@
  <br> Nearly two-thirds of the students at Bexford High School (is / `are`) overweight.
  <br> The copy `machines` in the company (is / `are`) all out of order.
  <br> The fragile `goods` in the storage (`need` / needs) to be delivered before the customers come in tomorrow.
+ 
+ 
+ <br><br>
+ 
+ - **Những cụm bổ nghĩa không ảnh hưởng đến việc chia động từ trong một câu:**
+ 
+    Điều đó có nghĩa là động từ trong câu vẫn sẽ được chia theo chủ ngữ như bình thường.
+ 
+    S + MODIFIER + V
+    
+    - Prepositional Phrase(Cụm giới từ): at/ on/ in/ from/ by/ under/ along/ without/ (along / together) with/ as well as/ beetween ...
+      <br> EX: <br> The cinema *between the theater and the bookstore* `opens` at 9:00 AM `every day`.
+ 
+    - Participial phrase(Cụm phân từ): đặc trưng luôn bắt đầu bằng V – ing hoặc V3/ed.
+      <br> EX: <br>The aquarium, *built in 1868*, needs renovation.
+               <br> A marketing plan, including market strategy, promotional efforts and advertising budget, (`has been`/ have been/ it is/ they are) our most profitable way of moving products to this new market.
+               <br> The articles, written by Jack 2 weeks ago, (was\ has been\ is\ `are`) too difficult to understand.
+ 
+    - Mệnh đề quan hệ: who, whom, when, which, that, whose, where, why ...
+      <br> EX: <br> More than 3000 households, who have received the defective packages, (Is requesting/ `are requesting`/ was requested/ were requested) to get compensation from the company.
+ <br> Those who own VIP tickets (has/ had/ `have`/ is having) an opportunity to sit in the front line with a bottle of champagne.
+ 
+ 
  
 <br><br> 
  
