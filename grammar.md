@@ -43,7 +43,7 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Shuffle:
-- Satisfied (adj) , satisfying (adj): thoã mãn
+- Satisfied (adj - feeling) , satisfying (adj - quality ): thoã mãn
  <br> EX:
      - The demonstrators are not satisfied with the government's tax proposals.
      - a satisfying meal.
