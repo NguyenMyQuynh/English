@@ -1,5 +1,6 @@
 ><i>It contains grammar notes when we do grammar exercise ^^</i>
 
+
 <div id="content"/>
 
 # Content
@@ -208,6 +209,7 @@
 - shut-shut-shut
 - set-set-set
 - sell-sold-sold: bán
+- steal-stole-stolen: ăn cắp
 - see-saw-seen
 - say-said-said
 - run-ran-run
@@ -421,6 +423,10 @@
  
  Một số chủ ngữ thường gặp|Ví dụ 
  -------------------------|-----
+ Danh từ đếm được số ít|
+ Ngôi thứ 3 số ít: he/ she/ it|
+ Much, little, a little, a great deal of, a large amount of + N(không đếm được)| a little rice,..
+ Some, some of, a lot of, lots of, all + N(không đếm được) |
  Uncountable nouns (Danh từ không đếm được)|Furniture, workload, information, knowledge, luggage, news,...
  One of / Each one of / Either of / neither of + plural noun (danh từ số nhiều)|One of my friends, each one of us, either of those dresses, neither of those books,...
  Another + singular noun|Another opportunity, another project, ...
@@ -446,6 +452,9 @@
  
   Một số chủ ngữ thường gặp|Ví dụ 
  -------------------------|-----
+ Ngôi thứ hai: you/ we/ they|
+ few, a few, many, several, several of, a variety of + N(đếm được số nhiều)|a few eggs,..
+ Some, some of, a lot of, lots of, all + N(đếm được số nhiều) |
  Plural nouns (Danh từ số nhiều)|Cats, magazines, watches, ...
  The + adj (= a group of people in general)|The rich, the poor, the young, ...
  Some (of the)+ plural noun|Some dictionaries, some documents, some researches,...
@@ -468,6 +477,7 @@
     S + MODIFIER + V
     
     - Prepositional Phrase(Cụm giới từ): at/ on/ in/ from/ by/ under/ along/ without/ (along / together) with/ as well as/ beetween ...
+      <br> A + giới từ + B => chia động từ theo A.
       <br> EX: <br> The cinema *between the theater and the bookstore* `opens` at 9:00 AM `every day`.
  
     - Participial phrase(Cụm phân từ): đặc trưng luôn bắt đầu bằng V – ing hoặc V3/ed.
@@ -479,7 +489,67 @@
       <br> EX: <br> More than 3000 households, who have received the defective packages, (Is requesting/ `are requesting`/ was requested/ were requested) to get compensation from the company.
  <br> Those who own VIP tickets (has/ had/ `have`/ is having) an opportunity to sit in the front line with a bottle of champagne.
  
+  <br><br>
  
+  - **Một số dạng đặc biệt:**
+ 
+ 
+  <table>
+                      <thead>
+                          <th> </th>
+                          <th>Cách chia động từ</th>
+                          <th>Ví dụ</th>
+                      </thead>
+                      <tbody>
+                          <tr>
+                              <td>Both A and B(Cả A và B) / A and B</td>
+                              <td >+V <i> số nhiều</i> </td>
+                              <td>Both I and my brother like eating chocolate</td>
+                          </tr>
+                          <tr>
+                              <td>Either A or B (A hoặc B)</td>
+                              <td rowspan=4>+ VB (Động từ chia theo chủ ngữ gần nhất - B)</td>
+                              <td>Either I or my brother likes eating chocolate.</td>
+                          </tr>
+                          <tr>
+                              <td>Neither A nor B(Không phải A cũng không phải B)</td>
+                              <td>Neither I nor my brother likes eating chocolate.</td>
+                          </tr>
+                          <tr>
+                                 <td>Not A but B (Không phải A mà là B)</td>
+                                 <td>Not I but my brother likes eating chocolate.</td>
+                           </tr>
+                           <tr>
+                                 <td>Not only A but also B (Không chỉ A mà cả B)</td>
+                                 <td>Not only I but also my brother likes eating chocolate.</td>
+                           </tr>
+                      </tbody>
+</table>
+ 
+ <br>
+ 
+ <table>
+                      <thead>
+                          <th> </th>
+                          <th>A number of</th>
+                          <th>The number of</th>
+                      </thead>
+                      <tbody>
+                          <tr>
+                              <td>Giống nhau</td>
+                           <td colspan=2>Noun <i>countable plural</i> (Danh từ đếm được số nhiều)</td>
+                          </tr>
+                          <tr>
+                              <td>Khác nhau (cách chia động từ)</td>
+                              <td>    V <i>chia số nhiều</i></td>
+                              <td>    V <i>chia số ít</i></td>
+                          </tr>
+                      </tbody>
+ </table>
+ 
+ EX: 
+ <br>A large number of paintings (stole/ was stolen/ `were stolen`/ has been stolen) from the art exhibitions `last Sunday`.
+
  
 <br><br> 
  
