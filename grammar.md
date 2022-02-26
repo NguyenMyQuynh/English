@@ -281,7 +281,7 @@
 - **Khi câu chủ động là câu nhờ vả với `“have”, “get”, “make”…`**
  
            S + have + Sb + V  + O …
-           → S +  have + O + V3/V_ed + (by Sb)
+           → S + have + O + V3/V_ed + (by Sb)
  
            EX: 
            Marie has her daughter buy a cup of coffee.
@@ -290,7 +290,7 @@
   <br>
  
            S + make … + Sb + V + O …
-           → Sb + be + made + to V + O …
+           → O + be + made + to V + by Sb …
 
            EX:
            John makes the hairdresser cut his hair.
@@ -299,7 +299,7 @@
   <br>
  
            S + get + Sb + to V + O… 
-           → S + get + O + to be + V3/V_ed (by sb)
+           → S + get + O + V3/V_ed (by sb)
 
            EX:
            Julie gets her husband to clean the kitchen for her.
@@ -346,24 +346,24 @@
  - **Câu bị động với các động từ chỉ giác quan như: `see, hear, watch, look, notice,…`**
  
  
-            S + be + V3/V_ed + Sb + V_ing (nhìn/ xem/ nghe… ai đó đang làm gì)
-             He watched them playing basketball.
-            → They were watched playing basketball.
+            S + V3/V_ed + Sb + V_ing (nhìn/ xem/ nghe… ai đó đang làm gì) (*)
+             He watched them playing basketball. (*)
+            → They `were watched playing` basketball.
 
 
-            S + be + V3/V_ed + Sb + V (nhìn/ xem/ nghe… ai đó làm gì)
-             I heard her cry.
-            → She was heard to cry.
+            S + V3/V_ed + Sb + V (nhìn/ xem/ nghe… ai đó làm gì) (**)
+             I heard her cry. (**)
+            → She `was heard to` cry.
 
  <br>
  
  - **Khi câu chủ động là câu mệnh lệnh:**
 
-            Khẳng định:    V + O	                                       → Let + O + be + V3/V_ed
+            Khẳng định:    V + O	                                → Let + O + be + V3/V_ed
             Phủ định:      Don’t  + V + O	                       → Don’t let + O + be + V3/V_ed
 
             EX: 
-             Do the exercise!
+            Do the exercise!
             → Let the exercise be done!
 
             Don’t leave her alone!
@@ -373,8 +373,8 @@
  
 - **Khi câu chủ động là câu hỏi Y/N question:**
  
-            Do/does + S + V-infi + O …?
-            → Am/ is/ are + S’ + V3/V_ed + (by O)?
+            `Do/does` + S + V-infi + O …?
+            → `Am/ is/ are` + S’ + `V3/V_ed` + (by O)?
 
             EX:
             Do you clean your classroom?
@@ -382,17 +382,17 @@
  
   <br>
  
-            Did + S + V-infi + O…?
-            → Was/were + S’ + V3/V_ed + by + …?
+            `Did` + S + V-infi + O…?
+            → `Was/were` + S’ + `V3/V_ed` + by + …?
 
             EX:
-            Can you bring your workbook to my desk?
-            → Can you workbook be brought to my desk?
+            Did you clean your table?
+             → Was your table cleaned (by you)?
 
   <br>
  
-            Modal verbs + S + V-infi + O + …?
-            → Modal verbs + S’ + be + V3/V_ed + by + O’?
+            `Modal verbs` + S + V-infi + O + …?
+            → `Modal verbs` + S’ + `be + V3/V_ed` + by + O’?
 
             EX:
             Can you move the table?
@@ -400,8 +400,8 @@
  
   <br>
  
-            Have/has/had + S + Ved/P2 + O + …?
-            → Have/ has/ had + S’ + been + V3/V_ed + by + O’?
+            `Have/has/had` + S + `V3/ed` + O + …?
+            → `Have/has/had` + S’ + been + `V3/ed` + by + O’?
 
             EX:
             Has she done her homework?
