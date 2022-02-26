@@ -272,5 +272,15 @@
 - conceal: giấu giếm, che đậy
 - reconcile: đành chấp nhận, cam chịu, làm thích hợp, phù hợp, hòa giải
 - accommodate: làm thích hợp, cung cấp, đáp ứng 
+  
+  conservative 
+conservation 
+conversation
+wife
+wise 
+prepare
+fill out 
+full fill 
+pull out 
 
   
