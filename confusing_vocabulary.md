@@ -5,6 +5,11 @@
 
 # Content
 
+
+**[IT](#heading--100)**
+
+**[0. ENG3](#heading--0)**
+
 **[1. Shuffle](#heading--1)**
 
 **[2. Lesson 1-4](#heading--2)**
@@ -18,6 +23,30 @@
 **[6. Lesson 17-20](#heading--6)**
 
 **[7. Lesson 21-24](#heading--7)**
+
+
+<br>
+
+<div id="heading--100"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## IT: 
+- malicious: độc hại
+- intrusion detection: sự phát hiện xâm nhập
+- intrusion prevention: sự ngăn ngừa xâm nhập 
+
+<br>
+
+<div id="heading--0"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
+
+## ENG3: 
+- conclusion: phần kết luận 
+- conclude: (v) kết luận, chấm dứt, kết thúc
 
 <br>
 
@@ -164,6 +193,7 @@
 ## Lesson 9-12: 
 - *accurate: (adj) chính xác (=exact)*
 - *accuracy: sự chính xác*
+- *accumulate: cộng dồn, tích lũy*
 - accommodate: làm cho thích nghi, cung cấp, đáp ứng 
 - facilitate: tạo ĐK, làm cho dễ dầng 
 - *furniture: nội thất* 
@@ -272,15 +302,12 @@
 - conceal: giấu giếm, che đậy
 - reconcile: đành chấp nhận, cam chịu, làm thích hợp, phù hợp, hòa giải
 - accommodate: làm thích hợp, cung cấp, đáp ứng 
-  
-  conservative 
-conservation 
-conversation
-wife
-wise 
-prepare
-fill out 
-full fill 
-pull out 
+- conservative = cautious: cẩn trọng 
+- *conservation: sự bảo tồn*
+- *conversation: cuộc hội thoại* 
+- wise: từng trải, hiểu biết nhiều, khôn ngoan, sáng suốt
+- fill out: điền vào 
+- full fill: hoàn thành 
+- pull out: rút lui 
 
   
