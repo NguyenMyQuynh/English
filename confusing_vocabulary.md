@@ -176,6 +176,7 @@
 - warning (n, adj)
 - *occur: xảy ra*
 - recur: tái diễn
+- appreciate: đánh giá, cảm kích, thông cảm
 - appreciate = evaluate : đánh giâ
 - bring in = hire = engage = recruit: thuê
 - reinforce: tăng cường, củng cố
