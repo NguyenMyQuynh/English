@@ -52,12 +52,12 @@
      > The questions words `who, what, where, when, why, how, how many, etc.,`
  
    EX:
+              Where is he from? 
+              When did you come here? 
+              How did you meet her? 
+              How many eggs do we need for this cake? 
+              Whose children are playing in the yard? 
 
-               Where is he from? 
-               When did you come here? 
-               How did you meet her? 
-               How many eggs do we need for this cake? 
-               Whose children are playing in the yard? 
  
 <br>
 
@@ -118,8 +118,8 @@
 
     EX:
 
-               Are you coming or going?
-               Would you rather have some wind farms off the Cape Cod coast, or would you rather have an oil spill?
+                Are you coming or going?
+                Would you rather have some wind farms off the Cape Cod coast, or would you rather have an oil spill?
   
  
  <br>
@@ -128,9 +128,9 @@
  
     EX:
 
-               Can't you ring me? (Bạn không gọi cho mình được á?)
-               Haven't they repaired your phone? (Họ vẫn chưa sửa điện thoại cho bạn á?)
-               Can't you be quiet? I'm trying to concentrate. (Bạn không trật tự được sao? Mình đang cố tập trung đấy.)
-               Why haven't they repaired it? (Sao họ vẫn chưa sửa nó nhỉ?)
-               Why don't we take a break now? I'm tired. (Sao bây giờ chúng ta không nghỉ nhỉ? Mình mệt quá.)
- 
+                Can't you ring me? (Bạn không gọi cho mình được á?)
+                Haven't they repaired your phone? (Họ vẫn chưa sửa điện thoại cho bạn á?)
+                Can't you be quiet? I'm trying to concentrate. (Bạn không trật tự được sao? Mình đang cố tập trung đấy.)
+                Why haven't they repaired it? (Sao họ vẫn chưa sửa nó nhỉ?)
+                Why don't we take a break now? I'm tired. (Sao bây giờ chúng ta không nghỉ nhỉ? Mình mệt quá.)
+
