@@ -1,4 +1,4 @@
-> notes in class ENG3 at my school :3
+> *notes in class ENG3 at my school :3*
 
 # Content
 
