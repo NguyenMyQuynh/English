@@ -56,11 +56,17 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Shuffle: 
+- influence: (n,v) ảnh hưởng 
+- affect: có ảnh hưởng đến
+- effect: hiệu ứng, hiệu lực 
+- effective: có hiệu quả  
+- efficient: có hiệu quả
+- affective: xúc động, dễ xúc động, thuộc về tình cảm 
 - demand: nhu cầu 
 - command: yêu cầu, mệnh lệnh, ra lệnh  
 - recommend: giới thiệu 
 - sufficient: đủ  
-- significant: có ý nghĩa, dáng kể, quan trọng ~ important = crucial  
+- significiant: có ý nghĩa, dáng kể, quan trọng ~ important = crucial  
 - integral = essential = necessary  : cần thiết 
 - series: hàng loạt, dãy liên tiếp 
 - serious: nghiêm trọng, nghiêm túc 
@@ -111,15 +117,19 @@
 - imposing: áp đặt, ấn tượng, trang nghiêm 
 - impose: áp đặt, bắt ..
 - expose: lộ ra, phơi bày  
-- pressure: áp lực  
+- pressure: áp lực 
+- measure: đo lường 
 - express: nhanh, thể hiện, bày tỏ 
 - complie: thu thập tài liệu, biên soạn, biên dịch 
 - audit: kiểm toán 
 - edit: chỉnh sửa, biên tập
+- conform: tuân thủ 
+- confirm: xác nhận  ~ verify: xác nhận, xác minh  
 
   
 <br>
   
+- abide by = comply with: tuân theo 
 - be in charge of: chịu trách nhiệm
 - stay on top of: cập nhật, nắm bắt thông tin
 - keep up with: bắt kịp, theo kịp với 
@@ -142,8 +152,9 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
   
 ## Lesson 1-4
-- warranties: bảo hành, sự đảm bảo
-- assurance: sự đảm bảo
+- warranties: (n) bảo hành, sự đảm bảo
+- assurance: (n) sự đảm bảo
+- guarantee: (n) bảo hành, sự đảm bảo
 - inspire: truyền cảm hứng
 - expire: hết hạn
 - offer: đề xuất, đề nghị
@@ -154,6 +165,11 @@
 - evaluate = appreciate: đánh giá 
 - specify: định rõ 
 - satisfy: làm hài lòng 
+- resolve ~ handle ~ deal with: giải quyết 
+- compare: so sánh 
+- prepare: chuẩn bị
+- attract: thu hút 
+- attention: sự chú ý 
 
 <br>
   
@@ -311,4 +327,12 @@
 - full fill: hoàn thành 
 - pull out: rút lui 
 
-  
+compare 
+prepare
+consequence 
+discrepancy 
+offer propose 
+guarantee
+conform 
+confirm 
+verify 
