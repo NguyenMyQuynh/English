@@ -105,10 +105,10 @@
  
   EX:
   
-        She sent him an invitation, didn’t she? – Yes, she did.
-        You aren’t getting married, are you? – No, I am not.
-        Jane isn’t in France, is she? – No, she isn’t.
-        Our dad will come soon, won’t he? – Yes, he will.
+               She sent him an invitation, didn’t she? – Yes, she did.
+               You aren’t getting married, are you? – No, I am not.
+               Jane isn’t in France, is she? – No, she isn’t.
+               Our dad will come soon, won’t he? – Yes, he will.
  
   <br>
  
@@ -128,9 +128,9 @@
  
     EX:
 
-          Can't you ring me? (Bạn không gọi cho mình được á?)
-          Haven't they repaired your phone? (Họ vẫn chưa sửa điện thoại cho bạn á?)
-          Can't you be quiet? I'm trying to concentrate. (Bạn không trật tự được sao? Mình đang cố tập trung đấy.)
-          Why haven't they repaired it? (Sao họ vẫn chưa sửa nó nhỉ?)
-          Why don't we take a break now? I'm tired. (Sao bây giờ chúng ta không nghỉ nhỉ? Mình mệt quá.)
+               Can't you ring me? (Bạn không gọi cho mình được á?)
+               Haven't they repaired your phone? (Họ vẫn chưa sửa điện thoại cho bạn á?)
+               Can't you be quiet? I'm trying to concentrate. (Bạn không trật tự được sao? Mình đang cố tập trung đấy.)
+               Why haven't they repaired it? (Sao họ vẫn chưa sửa nó nhỉ?)
+               Why don't we take a break now? I'm tired. (Sao bây giờ chúng ta không nghỉ nhỉ? Mình mệt quá.)
  
