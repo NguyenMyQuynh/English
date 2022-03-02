@@ -60,7 +60,7 @@
 - command: yêu cầu, mệnh lệnh, ra lệnh  
 - recommend: giới thiệu 
 - sufficient: đủ  
-- significiant: có ý nghĩa, dáng kể, quan trọng ~ important = crucial  
+- significant: có ý nghĩa, dáng kể, quan trọng ~ important = crucial  
 - integral = essential = necessary  : cần thiết 
 - series: hàng loạt, dãy liên tiếp 
 - serious: nghiêm trọng, nghiêm túc 
