@@ -8,8 +8,6 @@
 
 **[IT](#heading--100)**
 
-**[0. ENG3](#heading--0)**
-
 **[1. Shuffle](#heading--1)**
 
 **[2. Lesson 1-4](#heading--2)**
@@ -36,17 +34,6 @@
 - malicious: độc hại
 - intrusion detection: sự phát hiện xâm nhập
 - intrusion prevention: sự ngăn ngừa xâm nhập 
-
-<br>
-
-<div id="heading--0"/>
-  
-<a href=#content>
-  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
-
-## ENG3: 
-- conclusion: phần kết luận 
-- conclude: (v) kết luận, chấm dứt, kết thúc
 
 <br>
 
