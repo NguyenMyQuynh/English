@@ -6,12 +6,16 @@
 
 **[2. Grammar](#heading--2)**
 
-  * [2.1. Types of Questions](#heading--2-1)
-  * [2.2. ](#heading--2-2)
+  * [2.1. Economic & Economical](#heading--2-1)
+
+* [2.2. No & None](#heading--2-2)
+
 
 **[3. Listening](#heading--3)**
   
-  * [3.1. Types of Questions](#heading--3-1)
+  * [3.1. Voca](#heading--3-1)
+
+* [3.2. Types of Questions](#heading--3-2)
 
 <br><br>
 
@@ -23,25 +27,11 @@
 ## Confusing Vocabulary: 
 - conclusion: phần kết luận 
 - conclude: (v) kết luận, chấm dứt, kết thúc
- 
-[2/23, 3:12 PM] Nguyễn Thị Đoan Thư
-    FOLD (V)
-​[2/23, 3:12 PM] Nguyễn Thị Đoan Thư
-    FOLDER (N  )
-​[2/23, 3:15 PM] Nguyễn Thị Đoan Thư
-    WATER THE PLANTS
-​[2/23, 3:16 PM] Nguyễn Thị Đoan Thư
-    thirsty (a ) 
-​[2/23, 3:16 PM] Nguyễn Thị Đoan Thư
-    log on 
-​[2/23, 3:17 PM] Nguyễn Thị Đoan Thư
-    logo
-​[2/23, 3:17 PM] Nguyễn Thị Đoan Thư
-    prefer ( v )
-​[2/23, 3:18 PM] Nguyễn Thị Đoan Thư
-    preference (n  )
-​[2/23, 3:19 PM] Nguyễn Thị Đoan Thư
-    work extra hours
+- distractions: sự sao nhãng, sự phiền nhiễu 
+- attractions: sự thu hút (mang nghĩa tích cực)
+- room rates: giá phòng 
+- fares: giá vé EX: air fares/ bus fares 
+- fees: lệ phí EX: registration fees, tuition fees
 
   
 <br> <br>
@@ -53,6 +43,53 @@
 
 ## Grammar:
  
+ <div id="heading--2-1"/>
+ 
+ ### Economic và Economical:
+ 
+ Các tính từ economic và economical đều liên quan đến nền danh từ economy, nhưng ý nghĩa của chúng là khác nhau.
+
+Tính từ `economic` (`liên quan đến lĩnh vực kinh tế`) thường đề cập đến việc sản xuất, phân phối và tiêu thụ hàng hóa và dịch vụ.
+
+Trong cách sử dụng ngày nay, tính từ `economical` thường có nghĩa là `tiết kiệm - sử dụng cẩn thận các nguồn lực hoặc hoạt động với ít chất thải`.
+
+Economically là hình thức trạng từ của cả economic và economical.
+ 
+ Ví dụ:
+
+- “Destroying a rainforest for economic gain is like burning a Renaissance painting to cook a meal”. - E. O. Wilson.
+
+- The most economical and carbon-friendly way to travel to Boston from New York is by train.
+ 
+- The company could save money if it bought a fleet of more economical vehicles.
+ 
+  <br>
+ 
+ <div id="heading--2-2"/>
+ 
+ ### No/None:
+ 
+- NO + NOUN  + VERB
+- SUBJ + VERB  + NO + NOUN
+ 
+   EX:
+     - No NEWS IS GOOD NEWS
+     - He has no friends.
+
+ <br>
+
+- NONE   + VERB
+
+- NONE OF  them/ us
+- NONE  OF the boys 
+- NONE OF our cars 
+ 
+   EX:
+     - NONE of them is coming.
+     - I don’t chose any of them = I chose NONE of them. 
+
+ 
+ 
 <br> <br>
 
 <div id="heading--3"/>
@@ -60,9 +97,25 @@
 <a href=#content>
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
-## Listening: 
+## Listening:
  
  <div id="heading--3-1"/>
+ 
+ ### Voca:
+ 
+- fold (V)
+- folder (N)
+- thirsty (adj) 
+- log on 
+- logo
+- prefer (v)
+- preference (n)
+- work extra hours
+ 
+ 
+ <br>
+ 
+  <div id="heading--3-2"/>
  
  ### Types of Questions:
  
