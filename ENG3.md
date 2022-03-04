@@ -23,7 +23,26 @@
 ## Confusing Vocabulary: 
 - conclusion: phần kết luận 
 - conclude: (v) kết luận, chấm dứt, kết thúc
-  
+ 
+[2/23, 3:12 PM] Nguyễn Thị Đoan Thư
+    FOLD (V)
+​[2/23, 3:12 PM] Nguyễn Thị Đoan Thư
+    FOLDER (N  )
+​[2/23, 3:15 PM] Nguyễn Thị Đoan Thư
+    WATER THE PLANTS
+​[2/23, 3:16 PM] Nguyễn Thị Đoan Thư
+    thirsty (a ) 
+​[2/23, 3:16 PM] Nguyễn Thị Đoan Thư
+    log on 
+​[2/23, 3:17 PM] Nguyễn Thị Đoan Thư
+    logo
+​[2/23, 3:17 PM] Nguyễn Thị Đoan Thư
+    prefer ( v )
+​[2/23, 3:18 PM] Nguyễn Thị Đoan Thư
+    preference (n  )
+​[2/23, 3:19 PM] Nguyễn Thị Đoan Thư
+    work extra hours
+
   
 <br> <br>
 
