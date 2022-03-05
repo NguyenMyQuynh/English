@@ -33,6 +33,46 @@
 - fares: giá vé EX: air fares/ bus fares 
 - fees: lệ phí EX: registration fees, tuition fees
 
+ <br>
+ 
+ - transfer: chuyển tiền(chuyển khoản) hoặc chuyển người từ vị trí/phòng ban này sang khác 
+ - transmit: chuyển tài liệu bằng điện tử, signal,..
+ - transport: chuyên chở EX: the movement of goods..
+ - transplant: cấy, bứng đi tròng chỗ khác, thay thế bộ phận cơ thể
+ 
+ <br>
+ 
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ 
+ <br>
+ 
+ <br>
+ 
+
   
 <br> <br>
 
