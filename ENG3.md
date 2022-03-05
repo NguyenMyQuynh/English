@@ -10,6 +10,8 @@
 
 * [2.2. No & None](#heading--2-2)
 
+* [2.2. DOUBLE - TWICE và TWOFOLD](#heading--2-3)
+
 
 **[3. Listening](#heading--3)**
   
@@ -128,7 +130,41 @@ Economically là hình thức trạng từ của cả economic và economical.
      - NONE of them is coming.
      - I don’t chose any of them = I chose NONE of them. 
 
+<br> 
  
+ <div id="heading--2-3"/>
+
+### PHÂN BIỆT: DOUBLE - TWICE và TWOFOLD
+1) Double
+“Double” vừa là tính từ, vừa là động từ nên chúng ta có thể sử dụng double theo hai cách sau đây:
+a) Sử dụng như một tính từ
+Khi sử dụng “double” nhưng một tính từ, bạn viết theo 1 trong 2 cách sau:
+Cách 1: Time + experience/witness/ see/ su)ffer/ reveal/ show …+ Article + Adjective (to describe the degree/ speed of change) + Noun (to describe change) + in “what”
+The period between 2005 and 2009 witnessed a double increase in the number of jobless people from 600 to 1200 people.
+Cách 2: “There” (to introduce the subject) + be+ Article + Adjective (to describe the degree/ speed of change) + Noun (to describe change) + in “what”
+There was a double increase in the number of jobless people from 600 to 1200 people between 2005 and 2009.
+b) Sử dụng như một động từ
+Subject + Verb (to describe change) + Adverb (to describe the degree/ the speed of change).
+The number of people without job doubled between 2005 and 2009.
+2) Twice as…as/compared to, three times as…as/compared to
+Cách sử dụng twice  hoặc three times… đã quen thuộc hơn với các em vì đây chính là cách sử dụng so sánh gấp bao nhiêu lần của tính từ hoặc danh từ. Các em có thể viết theo 1 trong hai cách sau:
+a) Đặt danh từ so sánh ở giữa câu
+Đối tượng so sánh ở đây là người thất nghiệp. Khi đặt đối tượng so sánh ở giữa câu, em phải tạo ra chủ ngữ giả “there + be” để làm chủ ngữ cho câu.
+There were twice as many people without job in 2009 as in 2005.
+b) Đặt danh từ so sánh đứng đầu câu
+Tuy nhiên, khi bạn đặt đối tượng so sánh là lượng người thất nghiệp lên đầu câu thì em phải tạo ra động từ tương ứng để miêu tả nó. Động từ ở đây là “be jobless”.
+Twice as many people were jobless in 2009 compared to 2005.
+Với đối tượng so sánh là danh từ đếm được, em dùng “many” như trên, nhưng nếu nó là danh từ không đếm được, em cần dùng từ “much”.
+Twice as much rice was exported in 2009 compared to 2005
+3) Twofold, threefold
+Twofold, threefold, ..vừa là tính từ vừa là trạng từ nên sẽ có hai cách dùng tương ứng như sau:
+a) Sử dụng như một tính từ
+Khi sử dụng như một tính từ, từ “twofold, threefold” sẽ đứng trước danh từ.
+There was a twofold increase in the number of people without job between 2005 and 2009.
+b) Sử dụng như một trạng từ
+Khi sử dụng như một trạng từ, từ “twofold, threefold” sẽ đứng sau động từ trong cấu trúc sau:
+Subject + Verb (to describe change) + Adverb (to describe the degree/ the speed of change).
+The number of people without job increased twofold between 2005 and 2009.
  
 <br> <br>
 
