@@ -40,8 +40,21 @@
  - transfer: chuyển tiền(chuyển khoản) hoặc chuyển người từ vị trí/phòng ban này sang khác 
  - transmit: chuyển tài liệu bằng điện tử, signal,..
  - transport: chuyên chở EX: the movement of goods..
- - transplant: cấy, bứng đi tròng chỗ khác, thay thế bộ phận cơ thể
+ - transplant: cấy, bứng đi trồng chỗ khác, thay thế bộ phận cơ thể
  
+ <br>
+ 
+ - refusal: từ chối, sự từ chối
+ - referendum: thủ tục
+ - refugee: người tị nạn
+ - referee: trọng tài
+ 
+ <br>
+ 
+ - intense: mãnh liệt
+ - intends: dự định
+ - contents: nội dung, đồ chứa bên trong
+ - contends: tranh giành, tranh luận
  <br>
  
  
