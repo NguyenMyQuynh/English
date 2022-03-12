@@ -55,12 +55,27 @@
  - intends: dự định
  - contents: nội dung, đồ chứa bên trong
  - contends: tranh giành, tranh luận
- <br>
- 
- 
  
  <br>
  
+ - Applicants: ứng viên
+ - Appliances: thiết bị gia dụng
+ - Aptitudes: năng lực
+ - Amplifiers: bộ khuyếch đại
+ 
+ <br>
+ 
+ - Apartment: căn hộ, chung cư
+ - Department: phòng ban, ngành
+ - Appointment: cuộc hẹn, giấy mời
+ - Compartment: ngăn, khoang hành lý
+ 
+ <br>
+ 
+ - retracted: rút lại, co lại
+ - hardened: cứng
+ - lengthened: kéo dài
+ - extended: mở rộng
  
  <br>
  
