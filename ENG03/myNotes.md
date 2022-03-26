@@ -27,23 +27,6 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Confusing Vocabulary: 
-- conclusion: phần kết luận 
-- conclude: (v) kết luận, chấm dứt, kết thúc
-- distractions: sự sao nhãng, sự phiền nhiễu 
-- attractions: sự thu hút (mang nghĩa tích cực)
-- room rates: giá phòng 
-- fares: giá vé EX: air fares/ bus fares 
-- fees: lệ phí EX: registration fees, tuition fees
-
- <br>
- 
- - transfer: chuyển tiền(chuyển khoản) hoặc chuyển người từ vị trí/phòng ban này sang khác 
- - transmit: chuyển tài liệu bằng điện tử, signal,..
- - transport: chuyên chở EX: the movement of goods..
- - transplant: cấy, bứng đi trồng chỗ khác, thay thế bộ phận cơ thể
- 
- <br>
- 
  - refusal: từ chối, sự từ chối
  - referendum: thủ tục
  - refugee: người tị nạn
@@ -79,9 +62,28 @@
  
  <br>
  
+- conclusion: phần kết luận 
+- conclude: (v) kết luận, chấm dứt, kết thúc
+- distractions: sự sao nhãng, sự phiền nhiễu 
+- attractions: sự thu hút (mang nghĩa tích cực)
+- room rates: giá phòng 
+- fares: giá vé EX: air fares/ bus fares 
+- fees: lệ phí EX: registration fees, tuition fees
+
+ <br>
+ 
+ - transfer: chuyển tiền(chuyển khoản) hoặc chuyển người từ vị trí/phòng ban này sang khác 
+ - transmit: chuyển tài liệu bằng điện tử, signal,..
+ - transport: chuyên chở EX: the movement of goods..
+ - transplant: cấy, bứng đi trồng chỗ khác, thay thế bộ phận cơ thể
+ 
+ <br>
+ 
  - resign : từ chức
  - dismiss: sa thải 
  - stand in line = queue : xếp hàng 
+ 
+ <br>
  
  ![image](https://user-images.githubusercontent.com/62002485/160217648-14052bd5-5cae-4172-b193-5504b56a7649.png)
 
@@ -111,8 +113,10 @@
  
  ![image](https://user-images.githubusercontent.com/62002485/160218837-e3fb79b9-db46-4a8c-acde-be44166d4e6f.png)
 
- look: nhìn có chủ động 
- see: nhìn (ngồi ko tự nhiên thấy)
+ <br>
+ 
+ - look: nhìn có chủ động 
+ - see: nhìn (ngồi ko tự nhiên thấy)
  
  <br>
  
@@ -128,15 +132,14 @@
  
  <br>
  
- more or less ~ almost 
- sooner or later + future tense
+- more or less ~ almost 
+- sooner or later + future tense
 
  
  <br>
  
  <br>
  
-
   
 <br> <br>
 
