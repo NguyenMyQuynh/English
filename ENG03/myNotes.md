@@ -148,6 +148,7 @@
  
  <br>
  
+ - contends (she contends that ...)
  - intense 
  - deference 
  - reference: sự tham khảo
