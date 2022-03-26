@@ -79,24 +79,58 @@
  
  <br>
  
+ - resign : từ chức
+ - dismiss: sa thải 
+ - stand in line = queue : xếp hàng 
+ 
+ ![image](https://user-images.githubusercontent.com/62002485/160217648-14052bd5-5cae-4172-b193-5504b56a7649.png)
+
  
  <br>
  
+ - a loaf of bread 
+ - a pat of butter
+ - a drop of water 
  
  <br>
  
+ - in early twenties
+ - in late twenties
+ - temporature -> high thirties
+ - water -> deep
  
  <br>
  
+ - perform/ operate the emergency surgery
+ - act as
+ - achieve success 
+ - hospitality industry: ngành du lịch khách sạn
+ - listen + to 
  
  <br>
  
+ ![image](https://user-images.githubusercontent.com/62002485/160218837-e3fb79b9-db46-4a8c-acde-be44166d4e6f.png)
+
+ look: nhìn có chủ động 
+ see: nhìn (ngồi ko tự nhiên thấy)
  
  <br>
  
+- go down 
+- cooperate with sb on sth: hợp tác ...
+- coordinate: tổ chức, gắn kết, điều phối activities 
+- a role in a play
+- It (sth) does not make sense.
+- upcoming ~ release
+- turn this key to the right 
+- a former soccer player 
+- previous chỉ đi với vật (previous version)
  
  <br>
  
+ more or less ~ almost 
+ sooner or later + future tense
+
  
  <br>
  
