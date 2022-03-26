@@ -55,7 +55,8 @@
  
  <br>
  
- - retracted: rút lại, co lại
+ - retracted: rút lại (lời khai...)
+ - contract: co rút lại
  - hardened: cứng
  - lengthened: kéo dài
  - extended: mở rộng
@@ -73,7 +74,7 @@
  <br>
  
  - transfer: chuyển tiền(chuyển khoản) hoặc chuyển người từ vị trí/phòng ban này sang khác 
- - transmit: chuyển tài liệu bằng điện tử, signal,..
+ - transmit: chuyển tài liệu bằng điện tử, signal,.. (the fax)
  - transport: chuyên chở EX: the movement of goods..
  - transplant: cấy, bứng đi trồng chỗ khác, thay thế bộ phận cơ thể
  
@@ -134,11 +135,36 @@
  
 - more or less ~ almost 
 - sooner or later + future tense
+ 
+ <br>
+ 
+ - referee: trọng tài(trong bóng đá), người hòa giải (industry)
+ 
+ ![image](https://user-images.githubusercontent.com/62002485/160221035-16f3a292-e69e-41cc-a098-4c879f6af40e.png)
 
+ - referendum: trưng cầu dân ý 
+ - refuse: (v) từ chối 
+ - refusal (n)
  
  <br>
  
+ - intense 
+ - deference 
+ - reference: sự tham khảo
+ 
  <br>
+ 
+ - elected: bầu
+ - election: cuộc bầu cử
+ - city council: hội đồng TP
+ - counsel: lời khuyên 
+ 
+ <br>
+ 
+ - fiction: hư cấu 
+ - friction: ma sát
+ - fraction: phần nhỏ
+ - faction: phe
  
   
 <br> <br>
