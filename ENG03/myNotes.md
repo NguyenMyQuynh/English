@@ -29,6 +29,9 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Confusing Vocabulary: 
+  
+ - raise awareness about sth
+  
  - refusal: từ chối, sự từ chối
  - referendum: thủ tục
  - refugee: người tị nạn
