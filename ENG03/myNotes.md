@@ -186,6 +186,7 @@
  - Try + Ving: thử...
  - Try + to V: cố gắng làm j đó ...
  - `Notify` sb `of` sth
+ - Chỗ trống cần verb mà sau chỗ trông vẫn còn object => active verb 
  
  <br>
  
