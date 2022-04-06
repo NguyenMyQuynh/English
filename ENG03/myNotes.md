@@ -6,7 +6,9 @@
 
 **[2. Grammar](#heading--2)**
 
-  * [2.1. Economic & Economical](#heading--2-1)
+* [2.0. Shuffle](#heading--2-0)
+
+* [2.1. Economic & Economical](#heading--2-1)
 
 * [2.2. No & None](#heading--2-2)
 
@@ -176,6 +178,15 @@
   <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
 ## Grammar:
+ 
+<div id="heading--2-0"/>
+ 
+ ### Shuffle:
+ 
+ - Try + Ving: thử...
+ - Try + to V: cố gắng làm j đó ...
+ 
+ <br>
  
  <div id="heading--2-1"/>
  
