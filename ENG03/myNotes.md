@@ -30,6 +30,9 @@
 
 ## Confusing Vocabulary: 
   
+ - commence = begin 
+ 
+  
  - LEAVE FOR  = GO TO
  - EASILY BE BROKEN
  - CARRY-ON LUGGAGE
