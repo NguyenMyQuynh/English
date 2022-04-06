@@ -30,6 +30,20 @@
 
 ## Confusing Vocabulary: 
   
+ - LEAVE FOR  = GO TO
+ - EASILY BE BROKEN
+ - CARRY-ON LUGGAGE
+ - A FURNISHED APARTMENT = AN APARTMENT WITH FURNITURE
+ - FUNCTION (V) = WORK/ OPERATE 
+ - COMMERCIAL(S) = ADVERTISEMENT = AD = ADVERT 
+ - Substantially (adv) = greatly = a lot = considerably: nhiều, đáng kể 
+ - A TWO-STOREY HOUSE : nhà hai tầng  
+ - PROMISING / POTENTIAL + INVESTOR
+                                 <br>               + CANDIDATE/ EMPLOYEE/ APPLICANT
+
+  
+ <br>
+  
  - raise awareness about sth
   
  - refusal: từ chối, sự từ chối
@@ -190,16 +204,7 @@
  - Try + to V: cố gắng làm j đó ...
  - `Notify` sb `of` sth
  - Chỗ trống cần verb mà sau chỗ trông vẫn còn object => active verb 
- - LEAVE FOR  = GO TO
- - EASILY BE BROKEN
- - CARRY-ON LUGGAGE
- - A FURNISHED APARTMENT = AN APARTMENT WITH FURNITURE
- - FUNCTION (V) = WORK/ OPERATE 
- - COMMERCIAL(S) = ADVERTISEMENT = AD = ADVERT 
- - Substantially (adv) = greatly = a lot = considerably: nhiều, đáng kể 
- - A TWO-STOREY HOUSE : nhà hai tầng  
- - PROMISING / POTENTIAL + INVESTOR
-                          + CANDIDATE/ EMPLOYEE/ APPLICANT
+
 
  
  <br>
