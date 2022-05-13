@@ -12,7 +12,9 @@
 
 * [2.2. No & None](#heading--2-2)
 
-* [2.2. DOUBLE - TWICE và TWOFOLD](#heading--2-3)
+* [2.3. DOUBLE - TWICE và TWOFOLD](#heading--2-3)
+
+* [2.4. Because, because of, due to](#heading--2-4)
 
 
 **[3. Listening](#heading--3)**
@@ -294,7 +296,16 @@ Subject + Verb (to describe change) + Adverb (to describe the degree/ the speed 
 The number of people without job increased twofold between 2005 and 2009.
  
 <br> <br>
+    
+<div id="heading--2-4"/>
+  
+<a href=#content>
+  <img align="left" alt="Quynh's Facebook" width="24px" src="https://img.icons8.com/material-outlined/24/fa314a/content.png" />
 
+## Because, because of, due to:
+
+![image](https://user-images.githubusercontent.com/62002485/168196520-14e9b5b3-3d06-45fe-ac73-9fa45e7dfccf.png)
+  
 <div id="heading--3"/>
   
 <a href=#content>
