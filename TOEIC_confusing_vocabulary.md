@@ -77,7 +77,7 @@
 - alert = inform = announce :thông báo 
 - imply:ẩn ý ~ allude:ám chỉ 
 - defer = delay = postpone = put off 
-- occasion: cơ hội
+- occasion: cơ hội, dịp
 - associate: kết hợp
 - organization: tổ chức 
 - negotiate: đàm phán
